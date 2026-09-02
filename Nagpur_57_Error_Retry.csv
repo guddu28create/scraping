@@ -1,0 +1,217 @@
+﻿startupId,startupName,originalWebsite,originalErrorType,status,attempts,emails,phones,linkedin,pagesChecked,errorMessage
+6a4a3e39e4b0359e44e3b2c8,INVENTA VENTURES LLP,https://www.inventaventures.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.inventaventures.com/
+Call log:
+  - navigating to ""https://www.inventaventures.com/"", waiting until ""domcontentloaded""
+"
+6a05c061e4b07cca57a0e788,DENGANI BROTHERS LLP,https://www.dhobikaka.com,HTTP_ERROR,SUCCESS,1,dhobikaka@outlook.com,"+917387459765, 6026381168, 7387459765, 7733435315, 8660967758, 8741275481, 9009080464",,3,
+69f08586e4b07cca57967e6c,SRUSHTI TATVA INDIA PRIVATE LIMITED,https://www.srushtitatva.com,HTTP_ERROR,SUCCESS,1,,,,1,
+69e5f326e4b0e7f6cc6092f5,COHR TALENT MANAGEMENT PRIVATE LIMITED,https://cohr.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://cohr.in/
+Call log:
+  - navigating to ""https://cohr.in/"", waiting until ""domcontentloaded""
+"
+69e10b33e4b03fe8db9abb80,CFOSYNC AI PRIVATE LIMITED,https://www.cfosyncai.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cfosyncai.com/
+Call log:
+  - navigating to ""https://www.cfosyncai.com/"", waiting until ""domcontentloaded""
+"
+698048efe4b06a6c449d1ee6,V7 DEFENCE INDUSTRIES PRIVATE LIMITED,https://www.v7industries.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.v7industries.com/
+Call log:
+  - navigating to ""https://www.v7industries.com/"", waiting until ""domcontentloaded""
+"
+696a130ae4b0df7f2799d9b1,MAMTA BIORESOURCES LLP,https://mamtabioresources.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://mamtabioresources.com/
+Call log:
+  - navigating to ""https://mamtabioresources.com/"", waiting until ""domcontentloaded""
+"
+692d7b1de4b03cb054170989,PLACE ASSURED CONSULTANTS PRIVATE LIMITED,https://www.placeassured.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.placeassured.com/
+Call log:
+  - navigating to ""https://www.placeassured.com/"", waiting until ""domcontentloaded""
+"
+6926c688e4b03cb054152510,CELERIS VENTURES LLP,https://www.celerisventures.com,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.celerisventures.com/
+Call log:
+  - navigating to ""https://www.celerisventures.com/"", waiting until ""domcontentloaded""
+"
+691c645be4b03cb0541289e3,DROPLETX PRIVATE LIMITED,https://www.dropletx.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.dropletx.com/
+Call log:
+  - navigating to ""https://www.dropletx.com/"", waiting until ""domcontentloaded""
+"
+68f21363e4b063a5bed606df,CHUDIWAL AGRO &amp; FOOD INDUSTRY PRIVATE LIMITED,https://www.chudiwal.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.chudiwal.com/
+Call log:
+  - navigating to ""https://www.chudiwal.com/"", waiting until ""domcontentloaded""
+"
+68a05159e4b021e0fa50cce6,UPLYNK NETWORKS PRIVATE LIMITED,https://www.uplynknetworks.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.uplynknetworks.com/
+Call log:
+  - navigating to ""https://www.uplynknetworks.com/"", waiting until ""domcontentloaded""
+"
+685d468ee4b06dfc4c9ddfa9,DVSLA TECHNOLOGIES PRIVATE LIMITED,https://www.hertzcharge.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.hertzcharge.in/
+Call log:
+  - navigating to ""https://www.hertzcharge.in/"", waiting until ""domcontentloaded""
+"
+6811eb27e4b0611108b3f391,MUDITAA INFOSOFT LLP,https://: https://obhau.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""https://: https://obhau.com"", waiting until ""domcontentloaded""
+"
+6780d106e4b0086ce8e30d7d,SHIVAANI HYGIENE PRIVATE LIMITED,https://www.vaidyaindustries.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.vaidyaindustries.in/
+Call log:
+  - navigating to ""https://www.vaidyaindustries.in/"", waiting until ""domcontentloaded""
+"
+677bb3cbe4b0f84ff2b64b51,AMRIT OXIDANE PRIVATE LIMITED,https://0,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ADDRESS_INVALID at https://0.0.0.0/
+Call log:
+  - navigating to ""https://0.0.0.0/"", waiting until ""domcontentloaded""
+"
+67582fdce4b0953e58b21e72,AAVRAJAN SERVICES PRIVATE LIMITED,https://moneykauf.com/home/,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_CLOSED at https://moneykauf.com/home/
+Call log:
+  - navigating to ""https://moneykauf.com/home/"", waiting until ""domcontentloaded""
+"
+66c04d84e4b0eebff778f4db,BIOCARE KMK PRIVATE LIMITED,https://www.biocare.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.biocare.com/
+Call log:
+  - navigating to ""https://www.biocare.com/"", waiting until ""domcontentloaded""
+"
+669cc01ee4b07936b46efee7,GOPOOL SERVICES PRIVATE LIMITED,https://gopool.app,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gopool.app/
+Call log:
+  - navigating to ""https://gopool.app/"", waiting until ""domcontentloaded""
+"
+6684fe7ee4b05ec08d227f00,PAKHMODE PREWORKS INDIA PRIVATE LIMITED,https://www.preworks.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.preworks.in/
+Call log:
+  - navigating to ""https://www.preworks.in/"", waiting until ""domcontentloaded""
+"
+667d7c32e4b095452164ffce,TAPI TECHNOSERVES PRIVATE LIMITED,https://tapitechnoserves.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://tapitechnoserves.in/
+Call log:
+  - navigating to ""https://tapitechnoserves.in/"", waiting until ""domcontentloaded""
+"
+664349a3e4b08b3dcd0bb125,SIDRTREE AUTOMATION PRIVATE LIMITED,https://WWW.SIDRTREE.COM,CONNECTION_ERROR,SUCCESS,1,,6743634772,,1,
+6642404de4b02a1359266843,GUT-BUDDY HEALTHCARE SERVICES PRIVATE LIMITED,https://www.gut-buddy.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.gut-buddy.com/
+Call log:
+  - navigating to ""https://www.gut-buddy.com/"", waiting until ""domcontentloaded""
+"
+66221248e4b0cdd2e3dab3e5,PROLANCE FUTURE PRIVATE LIMITED,https://olivedrab-peafowl-884744.hostingersite.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://olivedrab-peafowl-884744.hostingersite.com/
+Call log:
+  - navigating to ""https://olivedrab-peafowl-884744.hostingersite.com/"", waiting until ""domcontentloaded""
+"
+65dd7902e4b0f8921ab260d4,BLEND EAT FOODS PRIVATE LIMITED,https://blendeatfoods.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://blendeatfoods.com/
+Call log:
+  - navigating to ""https://blendeatfoods.com/"", waiting until ""domcontentloaded""
+"
+65cb6ce2e4b0da2d942484d0,ENERGY SETU LLP,https://energysetu.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://energysetu.com/
+Call log:
+  - navigating to ""https://energysetu.com/"", waiting until ""domcontentloaded""
+"
+659fa0cfe4b07df9a32e2f22,TANWISH INSTITUTE OF HEALTH & WELLNESS PRIVATE LIMITED,https://institute.tanwishlife.com/,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://institute.tanwishlife.com/
+Call log:
+  - navigating to ""https://institute.tanwishlife.com/"", waiting until ""domcontentloaded""
+"
+649ebdd2e4b0a5524e7bb5b5,SHREE LAXMI PHARMA,https://shreelp.in/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://shreelp.in/
+Call log:
+  - navigating to ""https://shreelp.in/"", waiting until ""domcontentloaded""
+"
+64784dd1e4b0d597a031e6ec,DYSMECH COMPETENCY SERVICES PRIVATE LIMITED,https://dysmech.com/,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://dysmech.com/
+Call log:
+  - navigating to ""https://dysmech.com/"", waiting until ""domcontentloaded""
+"
+640c6584e4b05275a6b420e3,CLEANLANE EQUIPMENTS AND SOLUTIONS PRIVATE LIMITED,https://www.cleanlaneequipments.com,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.cleanlaneequipments.com/
+Call log:
+  - navigating to ""https://www.cleanlaneequipments.com/"", waiting until ""domcontentloaded""
+"
+640c5ba5e4b05275a6b3f8ff,SWAGSTAY PRIVATE LIMITED,https://swagstay.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://swagstay.com/
+Call log:
+  - navigating to ""https://swagstay.com/"", waiting until ""domcontentloaded""
+"
+63ff28bbe4b07770d05f14ce,URECRUIT PRIVATE LIMITED,https://www.urecruit.biz/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.urecruit.biz/
+Call log:
+  - navigating to ""https://www.urecruit.biz/"", waiting until ""domcontentloaded""
+"
+63f9bb9ae4b0752eee00cec1,SELF TECH SOLUTIONS PRIVATE LIMITED,https://selftech.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://selftech.in/
+Call log:
+  - navigating to ""https://selftech.in/"", waiting until ""domcontentloaded""
+"
+62a30160e4b0520246bf7176,Flying Hippo Media Private Limited,https://www.flyinghippomedia.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.flyinghippomedia.com/
+Call log:
+  - navigating to ""https://www.flyinghippomedia.com/"", waiting until ""domcontentloaded""
+"
+6222f0c5e4b0e4f8d26d9b4d,ORANGELEAF SERVICES PRIVATE LIMITED,https://www.nriway.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.nriway.com/
+Call log:
+  - navigating to ""https://www.nriway.com/"", waiting until ""domcontentloaded""
+"
+6200bc0ae4b0e4f8d26130c0,DUSKLINE INFRASTRUCTURES PRIVATE LIMITED,https://www.duskline.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.duskline.in/
+Call log:
+  - navigating to ""https://www.duskline.in/"", waiting until ""domcontentloaded""
+"
+61fb6558e4b00f5d174b3dbf,ADITHYAPOWER PRIVATE LIMITED,https://www.adithyapower.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.adithyapower.in/
+Call log:
+  - navigating to ""https://www.adithyapower.in/"", waiting until ""domcontentloaded""
+"
+61c6d907e4b041b4edd51037,AARMART ECOMMERCE LLP,https://www.aarmart.com/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.aarmart.com/
+Call log:
+  - navigating to ""https://www.aarmart.com/"", waiting until ""domcontentloaded""
+"
+61b2e990e4b0b13f63e64b52,INFO ENERGY LLP,https://www.infoenergy.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.infoenergy.in/
+Call log:
+  - navigating to ""https://www.infoenergy.in/"", waiting until ""domcontentloaded""
+"
+61793e67e4b0cb4c4c050599,CHOIRA MUSICTECH PRIVATE LIMITED,https://www.choira.io,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.choira.io/
+Call log:
+  - navigating to ""https://www.choira.io/"", waiting until ""domcontentloaded""
+"
+6151a1e4e4b05667f1175a1f,HUMEN EDUTECH LLP,https://www.humen.us,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.humen.us/
+Call log:
+  - navigating to ""https://www.humen.us/"", waiting until ""domcontentloaded""
+"
+6007e561e4b0c081f74a9b81,CESMEC PRIVATE LIMITED,https://www.cesmecindia.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cesmecindia.com/
+Call log:
+  - navigating to ""https://www.cesmecindia.com/"", waiting until ""domcontentloaded""
+"
+5ed5033be4b054cc0b12de03,FALCONEX SHIPPING AND LOGISTIX SOLUTIONS LLP,https://www.falconexlogistix.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.falconexlogistix.com/
+Call log:
+  - navigating to ""https://www.falconexlogistix.com/"", waiting until ""domcontentloaded""
+"
+5e9c5c20e4b0363cb632cdc9,ALORB TECHNOLOGIES PRIVATE LIMITED,https://Www.alorbtech.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.alorbtech.com/
+Call log:
+  - navigating to ""https://www.alorbtech.com/"", waiting until ""domcontentloaded""
+"
+5e4537bde4b0bf8415cf2b7c,BETTER ROBOTICS PRIVATE LIMITED,https://www.betterrobotics.in,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.betterrobotics.in/
+Call log:
+  - navigating to ""https://www.betterrobotics.in/"", waiting until ""domcontentloaded""
+"
+5e2e909ae4b06a21cadbbc90,KRISH INFOTECH SYSTEMS PRIVATE LIMITED,https://www.krishinfotech.net,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.krishinfotech.net/
+Call log:
+  - navigating to ""https://www.krishinfotech.net/"", waiting until ""domcontentloaded""
+"
+5dd7d5c2e4b0b6d6d946c372,GREEN LIFE SOLUTIONS PRIVATE LIMITED,https://www.greenlifesolution.in/,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.greenlifesolution.in/
+Call log:
+  - navigating to ""https://www.greenlifesolution.in/"", waiting until ""domcontentloaded""
+"
+5da5bf01e4b0fdee1a8d4e87,NECO DESERT TECH DEFENCE PRIVATE LIMITED,https://www.necodefence.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at https://www.necodefence.com/
+Call log:
+  - navigating to ""https://www.necodefence.com/"", waiting until ""domcontentloaded""
+"
+5d2724b2e4b0ac4d036f36da,RNR INNOTECH PRIVATE LIMITED,https://www.rnrinnotech.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.rnrinnotech.com/
+Call log:
+  - navigating to ""https://www.rnrinnotech.com/"", waiting until ""domcontentloaded""
+"
+5d23268be4b0ac4d036e9519,LOCKENE PRIVATE LIMITED,https://WWW.LOCKENE.IN,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.lockene.in/
+Call log:
+  - navigating to ""https://www.lockene.in/"", waiting until ""domcontentloaded""
+"
+5cd17c62e4b08536635353e8,APPYNITTY COMMUNICATIONS PRIVATE LIMITED,https://www.appynitty.com,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_RESET at https://www.appynitty.com/
+Call log:
+  - navigating to ""https://www.appynitty.com/"", waiting until ""domcontentloaded""
+"
+5c6268b6e4b0ba900e0eb1bc,ASIMEET INNOVATIONS (OPC) PRIVATE LIMITED,http://www.asimeet.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_ABORTED at http://www.asimeet.com/
+Call log:
+  - navigating to ""http://www.asimeet.com/"", waiting until ""domcontentloaded""
+"
+5bd6ad6ce4b0d01c027e4630,NU OSSA MEDIQUIP PRIVATE LIMITED,https://www.nuossa.com,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.nuossa.com/
+Call log:
+  - navigating to ""https://www.nuossa.com/"", waiting until ""domcontentloaded""
+"
+5bc3a7bfe4b0c21ec4fe1543,ZEROJHANJHAT ACCOMODATION SERVICES PRIVATE LIMITED,https://www.zerojhanjhat.com,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.zerojhanjhat.com/
+Call log:
+  - navigating to ""https://www.zerojhanjhat.com/"", waiting until ""domcontentloaded""
+"
+5abe3d5fe4b026aa2861a9c3,GODIGILER INDIA WEB SOLUTIONS PRIVATE LIMITED,https://www.rhenopharm.com,OTHER_ERROR,RETRY_FAILED,3,info@rhenopharm.com,,,2,Playwright timeout
+5abe3999e4b026aa2861a458,MILLENNIA AHEAD TECHNOLOGIES PRIVATE LIMITED,https://millenniaaheadtechnologies.com/,CONNECTION_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CONNECTION_REFUSED at https://millenniaaheadtechnologies.com/
+Call log:
+  - navigating to ""https://millenniaaheadtechnologies.com/"", waiting until ""domcontentloaded""
+"
+59770a62e4b02e027ba9be47,EPIONE HEALTHCARE PRIVATE LIMITED,https://www.your-physio.in,HTTP_ERROR,RETRY_FAILED,3,,,,0,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.your-physio.in/
+Call log:
+  - navigating to ""https://www.your-physio.in/"", waiting until ""domcontentloaded""
+"

@@ -1,0 +1,127 @@
+﻿startupId,startupName,originalWebsite,originalErrorType,status,successfulURL,method,attempts,emails,phones,linkedin,pagesChecked,errorMessage
+6a4a3e39e4b0359e44e3b2c8,INVENTA VENTURES LLP,https://www.inventaventures.com,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.inventaventures.com/
+Call log:
+  - navigating to ""https://www.inventaventures.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.inventaventures.com/
+Call log:
+  - navigating to ""http://www.inventaventures.com/"", waiting until ""domcontentloaded""
+"
+69e5f326e4b0e7f6cc6092f5,COHR TALENT MANAGEMENT PRIVATE LIMITED,https://cohr.in,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,2,"HTTPS failed: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://cohr.in/
+Call log:
+  - navigating to ""https://cohr.in/"", waiting until ""domcontentloaded""
+ | HTTP failed: HTTP 409"
+69e10b33e4b03fe8db9abb80,CFOSYNC AI PRIVATE LIMITED,https://www.cfosyncai.com,HTTP_ERROR,SUCCESS,https://www.cfosyncai.com,HTTPS_IGNORE_SSL,1,"hello@iceico.com, rahul@company.com, support@iceico.com",9389950473,,4,
+698048efe4b06a6c449d1ee6,V7 DEFENCE INDUSTRIES PRIVATE LIMITED,https://www.v7industries.com,HTTP_ERROR,SUCCESS,https://www.v7industries.com,HTTPS_IGNORE_SSL,1,"info@v7industries.com, info@v7industries.in, sales@v7industries.com","+ 91712 222 5551, +917122225551, +9177962 22551, +917796222551, 6666666666, 7496969728, 7870402312, 8275396661, 9182739666, 9413549039",https://www.linkedin.com/company/v7-defence-industries-pvt-ltd/,4,
+696a130ae4b0df7f2799d9b1,MAMTA BIORESOURCES LLP,https://mamtabioresources.com,HTTP_ERROR,SUCCESS,https://mamtabioresources.com,HTTPS_IGNORE_SSL,1,,,,1,
+692d7b1de4b03cb054170989,PLACE ASSURED CONSULTANTS PRIVATE LIMITED,https://www.placeassured.com,HTTP_ERROR,SUCCESS,https://www.placeassured.com,HTTPS_IGNORE_SSL,1,,,,2,
+6926c688e4b03cb054152510,CELERIS VENTURES LLP,https://www.celerisventures.com,CONNECTION_ERROR,SUCCESS,http://www.celerisventures.com,HTTP_FALLBACK,3,,6743634772,,1,
+691c645be4b03cb0541289e3,DROPLETX PRIVATE LIMITED,https://www.dropletx.com/,HTTP_ERROR,SUCCESS,http://www.dropletx.com/,HTTP_FALLBACK,3,,,,1,
+68f21363e4b063a5bed606df,CHUDIWAL AGRO &amp; FOOD INDUSTRY PRIVATE LIMITED,https://www.chudiwal.com,HTTP_ERROR,SUCCESS,https://www.chudiwal.com,HTTPS_IGNORE_SSL,1,"hello@iceico.com, rahul@company.com, support@iceico.com",9389950473,,4,
+68a05159e4b021e0fa50cce6,UPLYNK NETWORKS PRIVATE LIMITED,https://www.uplynknetworks.com,HTTP_ERROR,SUCCESS,https://www.uplynknetworks.com,HTTPS_IGNORE_SSL,1,webmaster@uplynknetworks.com,,,1,
+685d468ee4b06dfc4c9ddfa9,DVSLA TECHNOLOGIES PRIVATE LIMITED,https://www.hertzcharge.in,HTTP_ERROR,SUCCESS,http://www.hertzcharge.in,HTTP_FALLBACK,3,,,,1,
+6811eb27e4b0611108b3f391,MUDITAA INFOSOFT LLP,https://: https://obhau.com,HTTP_ERROR,NEEDS_WEB_SEARCH,,INVALID_URL,0,,,,0,Invalid or malformed original URL
+6780d106e4b0086ce8e30d7d,SHIVAANI HYGIENE PRIVATE LIMITED,https://www.vaidyaindustries.in,HTTP_ERROR,SUCCESS,https://www.vaidyaindustries.in,HTTPS_IGNORE_SSL,1,vaidyaindustries_ngp@yahoo.com,"6044299026, 6582466626, 7075195312, 7397383521, 7496969728, 8180305391, 8186419853, 8256371021, 8892355178, 9482309026, 9545862313, 9616062377",https://in.linkedin.com/,1,
+677bb3cbe4b0f84ff2b64b51,AMRIT OXIDANE PRIVATE LIMITED,https://0,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_ADDRESS_INVALID at https://0.0.0.0/
+Call log:
+  - navigating to ""https://0.0.0.0/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_ADDRESS_INVALID at http://0.0.0.0/
+Call log:
+  - navigating to ""http://0.0.0.0/"", waiting until ""domcontentloaded""
+"
+67582fdce4b0953e58b21e72,AAVRAJAN SERVICES PRIVATE LIMITED,https://moneykauf.com/home/,CONNECTION_ERROR,SUCCESS,http://moneykauf.com/home/,HTTP_FALLBACK,3,,,,1,
+66c04d84e4b0eebff778f4db,BIOCARE KMK PRIVATE LIMITED,https://www.biocare.com,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,3,HTTPS failed: HTTP 502 | HTTP failed: Playwright timeout
+669cc01ee4b07936b46efee7,GOPOOL SERVICES PRIVATE LIMITED,https://gopool.app,HTTP_ERROR,SUCCESS,https://gopool.app,HTTPS_IGNORE_SSL,1,,,,1,
+6684fe7ee4b05ec08d227f00,PAKHMODE PREWORKS INDIA PRIVATE LIMITED,https://www.preworks.in,HTTP_ERROR,SUCCESS,http://www.preworks.in,HTTP_FALLBACK,4,connect@preworks.in,"6744879799, 7543033779, 7543895753, 7545577916, 7545679927, 7546316612, 7546565893, 7549908844, 7550000474, 7551639482, 7551639590, 9011133089",,2,
+667d7c32e4b095452164ffce,TAPI TECHNOSERVES PRIVATE LIMITED,https://tapitechnoserves.in,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,4,HTTPS failed: HTTP 404 | HTTP failed: HTTP 404
+6642404de4b02a1359266843,GUT-BUDDY HEALTHCARE SERVICES PRIVATE LIMITED,https://www.gut-buddy.com,HTTP_ERROR,SUCCESS,https://www.gut-buddy.com,HTTPS_IGNORE_SSL,1,"admin@gut-buddy.com, reena.phogat@gut-buddy.com","+919119116122, 6155985611, 6450604841",https://www.linkedin.com/company/gut-buddy/,4,
+66221248e4b0cdd2e3dab3e5,PROLANCE FUTURE PRIVATE LIMITED,https://olivedrab-peafowl-884744.hostingersite.com/,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://olivedrab-peafowl-884744.hostingersite.com/
+Call log:
+  - navigating to ""https://olivedrab-peafowl-884744.hostingersite.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_CONNECTION_RESET at http://olivedrab-peafowl-884744.hostingersite.com/
+Call log:
+  - navigating to ""http://olivedrab-peafowl-884744.hostingersite.com/"", waiting until ""domcontentloaded""
+"
+65dd7902e4b0f8921ab260d4,BLEND EAT FOODS PRIVATE LIMITED,https://blendeatfoods.com,HTTP_ERROR,SUCCESS,http://blendeatfoods.com,HTTP_FALLBACK,3,,,,1,
+65cb6ce2e4b0da2d942484d0,ENERGY SETU LLP,https://energysetu.com/,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,2,"HTTPS failed: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://energysetu.com/
+Call log:
+  - navigating to ""https://energysetu.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: HTTP 403"
+659fa0cfe4b07df9a32e2f22,TANWISH INSTITUTE OF HEALTH & WELLNESS PRIVATE LIMITED,https://institute.tanwishlife.com/,CONNECTION_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://institute.tanwishlife.com/
+Call log:
+  - navigating to ""https://institute.tanwishlife.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://institute.tanwishlife.com/
+Call log:
+  - navigating to ""http://institute.tanwishlife.com/"", waiting until ""domcontentloaded""
+"
+649ebdd2e4b0a5524e7bb5b5,SHREE LAXMI PHARMA,https://shreelp.in/,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://shreelp.in/
+Call log:
+  - navigating to ""https://shreelp.in/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://shreelp.in/
+Call log:
+  - navigating to ""http://shreelp.in/"", waiting until ""domcontentloaded""
+"
+64784dd1e4b0d597a031e6ec,DYSMECH COMPETENCY SERVICES PRIVATE LIMITED,https://dysmech.com/,CONNECTION_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_CONNECTION_REFUSED at https://dysmech.com/
+Call log:
+  - navigating to ""https://dysmech.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_CONNECTION_REFUSED at http://dysmech.com/
+Call log:
+  - navigating to ""http://dysmech.com/"", waiting until ""domcontentloaded""
+"
+640c6584e4b05275a6b420e3,CLEANLANE EQUIPMENTS AND SOLUTIONS PRIVATE LIMITED,https://www.cleanlaneequipments.com,CONNECTION_ERROR,SUCCESS,http://www.cleanlaneequipments.com,HTTP_FALLBACK,3,,,,1,
+640c5ba5e4b05275a6b3f8ff,SWAGSTAY PRIVATE LIMITED,https://swagstay.com/,HTTP_ERROR,SUCCESS,https://swagstay.com/,HTTPS_IGNORE_SSL,1,support@swagstay.com,"+91 9209228942, +91-9209403405, +919209403405, 6515388123, 7650610695, 7784164916, 9388819629",https://www.linkedin.com/company/swagstay/?originalSubdomain=in,3,
+63ff28bbe4b07770d05f14ce,URECRUIT PRIVATE LIMITED,https://www.urecruit.biz/,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.urecruit.biz/
+Call log:
+  - navigating to ""https://www.urecruit.biz/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.urecruit.biz/
+Call log:
+  - navigating to ""http://www.urecruit.biz/"", waiting until ""domcontentloaded""
+"
+63f9bb9ae4b0752eee00cec1,SELF TECH SOLUTIONS PRIVATE LIMITED,https://selftech.in,HTTP_ERROR,SUCCESS,https://selftech.in,HTTPS_IGNORE_SSL,1,"hr@selftech.in, info@logicinnovates.com","+91 7756957534, +91 9273257534, +91 9373887087, 6282538381, 6882147562, 7887998299, 8136508678, 9994290033",https://www.linkedin.com/company/selftech-in,3,
+62a30160e4b0520246bf7176,Flying Hippo Media Private Limited,https://www.flyinghippomedia.com,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,2,"HTTPS failed: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.flyinghippomedia.com/
+Call log:
+  - navigating to ""https://www.flyinghippomedia.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: HTTP 403"
+6222f0c5e4b0e4f8d26d9b4d,ORANGELEAF SERVICES PRIVATE LIMITED,https://www.nriway.com/,HTTP_ERROR,SUCCESS,https://www.nriway.com/,HTTPS_IGNORE_SSL,1,"111@3xmobile.png, 311@3xmobile.png, 411@3xmobile.png, info@nriway.com","+919684031393, 6398279422, 6528589843, 6550738999, 6576036419, 6584890786, 6638367074, 6849091063, 6932226147, 6992592994, 7393339856, 7480486442, 7529711683, 7618980776, 7984455881, 8227914933, 8268963862, 8429372691, 8575138322, 8622674929, 8751919815, 8989050285, 9024217735, 9837148320, 9871065770",https://www.linkedin.com/company/nriway,4,
+6200bc0ae4b0e4f8d26130c0,DUSKLINE INFRASTRUCTURES PRIVATE LIMITED,https://www.duskline.in,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,2,"HTTPS failed: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.duskline.in/
+Call log:
+  - navigating to ""https://www.duskline.in/"", waiting until ""domcontentloaded""
+ | HTTP failed: HTTP 403"
+61fb6558e4b00f5d174b3dbf,ADITHYAPOWER PRIVATE LIMITED,https://www.adithyapower.in,HTTP_ERROR,SUCCESS,https://www.adithyapower.in,HTTPS_IGNORE_SSL,1,,,,1,
+61c6d907e4b041b4edd51037,AARMART ECOMMERCE LLP,https://www.aarmart.com/,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,4,HTTPS failed: HTTP 403 | HTTP failed: HTTP 403
+61b2e990e4b0b13f63e64b52,INFO ENERGY LLP,https://www.infoenergy.in,HTTP_ERROR,SUCCESS,http://www.infoenergy.in,HTTP_FALLBACK,3,"info@infoenergy.com, info@infoenergy.in, ujjwal@infoenergy.com, ujjwal@infoenergy.in","6040271931, 7058823529, 7647058823, 7647058824, 8571428571, 8823529411, 9411764706, 9881964523",https://www.linkedin.com/company/info-energy/,3,
+61793e67e4b0cb4c4c050599,CHOIRA MUSICTECH PRIVATE LIMITED,https://www.choira.io,HTTP_ERROR,SUCCESS,https://www.choira.io,HTTPS_IGNORE_SSL,1,,"7870407923, 7870407928, 7870407965, 7870408026, 9104365270",https://www.linkedin.com/company/choira,3,
+6151a1e4e4b05667f1175a1f,HUMEN EDUTECH LLP,https://www.humen.us,CONNECTION_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.humen.us/
+Call log:
+  - navigating to ""https://www.humen.us/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_CONNECTION_REFUSED at http://www.humen.us/
+Call log:
+  - navigating to ""http://www.humen.us/"", waiting until ""domcontentloaded""
+"
+6007e561e4b0c081f74a9b81,CESMEC PRIVATE LIMITED,https://www.cesmecindia.com,HTTP_ERROR,SUCCESS,https://www.cesmecindia.com,HTTPS_IGNORE_SSL,1,"cesmec.arch@gmail.com, client@domain.com","+91 8766642269, +91 9039616565, 6582497607, 7162234503, 7792707263, 7792707749, 7792708002, 7828032768, 9196198863, 9245199859",,1,
+5ed5033be4b054cc0b12de03,FALCONEX SHIPPING AND LOGISTIX SOLUTIONS LLP,https://www.falconexlogistix.com,HTTP_ERROR,SUCCESS,https://www.falconexlogistix.com,HTTPS_IGNORE_SSL,1,"info@falconexlogistix.com, mail@falconex.com","+919028333856, 8087284955, 9028333856",https://www.linkedin.com/company/falcon-shipping-logistix-solutions-llp/,4,
+5e9c5c20e4b0363cb632cdc9,ALORB TECHNOLOGIES PRIVATE LIMITED,https://Www.alorbtech.com,HTTP_ERROR,SUCCESS,https://Www.alorbtech.com,HTTPS_IGNORE_SSL,1,connect@alorbtech.com,+91 9730694979,https://www.linkedin.com/company/alorb-technologies-private-limited/,2,
+5e4537bde4b0bf8415cf2b7c,BETTER ROBOTICS PRIVATE LIMITED,https://www.betterrobotics.in,CONNECTION_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.betterrobotics.in/
+Call log:
+  - navigating to ""https://www.betterrobotics.in/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_CONNECTION_REFUSED at http://www.betterrobotics.in/
+Call log:
+  - navigating to ""http://www.betterrobotics.in/"", waiting until ""domcontentloaded""
+"
+5e2e909ae4b06a21cadbbc90,KRISH INFOTECH SYSTEMS PRIVATE LIMITED,https://www.krishinfotech.net,HTTP_ERROR,SUCCESS,https://www.krishinfotech.net,HTTPS_IGNORE_SSL,1,hr@indianautogas.in,"+91 8282826862, +91 8329005280, +91 9545930088, 7496969728, 9183290052","https://in.linkedin.com/in/rahul-gugaliya-b6441a7, https://www.linkedin.com/in/rahul-gugaliya-b6441a7/",4,
+5dd7d5c2e4b0b6d6d946c372,GREEN LIFE SOLUTIONS PRIVATE LIMITED,https://www.greenlifesolution.in/,HTTP_ERROR,SUCCESS,https://www.greenlifesolution.in/,HTTPS_IGNORE_SSL,1,info@greenlifesolution.in,"+919225332011, +919225664282, 9175075001, 9225332011",https://linkedin.com/,3,
+5da5bf01e4b0fdee1a8d4e87,NECO DESERT TECH DEFENCE PRIVATE LIMITED,https://www.necodefence.com,HTTP_ERROR,SUCCESS,https://www.necodefence.com,HTTPS_IGNORE_SSL,1,contact@necodefence.com,"+91 9284861302, 7131784793, 9192848613, 9284861302, 9331564831, 9947254485",,4,
+5d2724b2e4b0ac4d036f36da,RNR INNOTECH PRIVATE LIMITED,https://www.rnrinnotech.com,HTTP_ERROR,SUCCESS,https://www.rnrinnotech.com,HTTPS_IGNORE_SSL,1,,,,1,
+5d23268be4b0ac4d036e9519,LOCKENE PRIVATE LIMITED,https://WWW.LOCKENE.IN,HTTP_ERROR,SUCCESS,https://WWW.LOCKENE.IN,HTTPS_IGNORE_SSL,1,,7327107335,,1,
+5cd17c62e4b08536635353e8,APPYNITTY COMMUNICATIONS PRIVATE LIMITED,https://www.appynitty.com,CONNECTION_ERROR,SUCCESS,http://www.appynitty.com,HTTP_FALLBACK,3,,,,1,
+5c6268b6e4b0ba900e0eb1bc,ASIMEET INNOVATIONS (OPC) PRIVATE LIMITED,http://www.asimeet.com,HTTP_ERROR,SUCCESS,http://www.asimeet.com,HTTPS_IGNORE_SSL,1,info@asimeet.com,"+917122776840, 6389017399",,2,
+5bd6ad6ce4b0d01c027e4630,NU OSSA MEDIQUIP PRIVATE LIMITED,https://www.nuossa.com,CONNECTION_ERROR,SUCCESS,http://www.nuossa.com,HTTP_FALLBACK,3,,,,1,
+5bc3a7bfe4b0c21ec4fe1543,ZEROJHANJHAT ACCOMODATION SERVICES PRIVATE LIMITED,https://www.zerojhanjhat.com,HTTP_ERROR,SUCCESS,http://www.zerojhanjhat.com,HTTP_FALLBACK,3,,,,1,
+5abe3d5fe4b026aa2861a9c3,GODIGILER INDIA WEB SOLUTIONS PRIVATE LIMITED,https://www.rhenopharm.com,OTHER_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,info@rhenopharm.com,,,4,HTTPS failed: 'contact-form-7%20id=76%20title=Appointment%20Form' does not appear to be an IPv4 or IPv6 address | HTTP failed: 'contact-form-7%20id=76%20title=Appointment%20Form' does not appear to be an IPv4 or IPv6 address
+5abe3999e4b026aa2861a458,MILLENNIA AHEAD TECHNOLOGIES PRIVATE LIMITED,https://millenniaaheadtechnologies.com/,CONNECTION_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,0,"HTTPS failed: Page.goto: net::ERR_CONNECTION_REFUSED at https://millenniaaheadtechnologies.com/
+Call log:
+  - navigating to ""https://millenniaaheadtechnologies.com/"", waiting until ""domcontentloaded""
+ | HTTP failed: Page.goto: net::ERR_CONNECTION_REFUSED at http://millenniaaheadtechnologies.com/
+Call log:
+  - navigating to ""http://millenniaaheadtechnologies.com/"", waiting until ""domcontentloaded""
+"
+59770a62e4b02e027ba9be47,EPIONE HEALTHCARE PRIVATE LIMITED,https://www.your-physio.in,HTTP_ERROR,NEEDS_WEB_SEARCH,,HTTPS_AND_HTTP_FAILED,4,,,,4,HTTPS failed: HTTP 404 | HTTP failed: HTTP 404

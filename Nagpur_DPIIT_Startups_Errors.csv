@@ -1,0 +1,2030 @@
+﻿startupId,startupName,dippNumber,dippRecognitionStatus,cin,stage,city,state,industry,sectors,website,email,phone,linkedInUrl,profileStatus,scrapedEmail,scrapedPhone,scrapedLinkedIn,pagesChecked,scrapeStatus,scrapeError,cleanedEmail,cleanedPhone,cleanedLinkedIn,errorType
+6a4a3e39e4b0359e44e3b2c8,INVENTA VENTURES LLP,DIPP270609,RECOGNISED,ACU-0652,EarlyTraction,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.inventaventures.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.inventaventures.com/
+Call log:
+  - navigating to ""https://www.inventaventures.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+6a47ae7ee4b0359e44e31356,SOMYA INTEGRATED SAFETY SECURITY SERVICES LLP,DIPP270404,RECOGNISED,ACE-6946,EarlyTraction,Nagpur,Maharashtra,Security Solutions,Others,https://www.sismultipurposeservices.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sismultipurposeservices.com/
+Call log:
+  - navigating to ""https://www.sismultipurposeservices.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a43c29fe4b0359e44e1d2d8,VRAJA CREATION LLP,DIPP269876,RECOGNISED,ACZ-3993,Validation,Nagpur,Maharashtra,Textiles & Apparel,Non- Leather Textiles Goods,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a435996e4b0359e44e19037,SMKJ BEVERAGES LLP,DIPP269730,RECOGNISED,ACR-2435,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a425805e4b0359e44e14a4d,SWAZTHI ENTERPRISES LLP,DIPP269650,RECOGNISED,ACB-0839,Validation,Nagpur,Maharashtra,Architecture Interior Design,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a3b86f9e4b0359e44df2d4e,RAAFIANA GLOBAL LLP,DIPP268773,RECOGNISED,ACX-0703,Prototype,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a393ed7e4b0359e44de827f,ELEVEN RUDRAKSHAK REAL ESTATE PRIVATE LIMITED,DIPP268451,RECOGNISED,U68100ME2026PTC475004,Validation,Nagpur,Maharashtra,Real Estate,Others,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a38f51ee4b06921f1d7ad87,SDM ROBOTICS & DRONE TRAINING ACADEMY PRIVATE LIMITED,DIPP268518,RECOGNISED,U85306MH2026PTC466967,Prototype,Nagpur,Maharashtra,Education,Skill Development,https://www.sdmrobotics.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sdmrobotics.com/
+Call log:
+  - navigating to ""https://www.sdmrobotics.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a36470ae4b06921f1d7110d,SVSTAR EDUCATION PRIVATE LIMITED,DIPP268074,RECOGNISED,U85491ME2026PTC474935,Prototype,Nagpur,Maharashtra,Education,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a294d66e4b06921f1d2c8f1,SAERA HEALTHCARE LLP,DIPP266654,RECOGNISED,ACY-8643,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a1ffd23e4b075ab1c5a93b9,ORVYN STUDIO PRIVATE LIMITED,DIPP265341,RECOGNISED,U47711ME2026PTC474805,Validation,Nagpur,Maharashtra,Textiles & Apparel,Apparel & Accessories,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a0ff675e4b061f008c7cae4,MORNINGMIND TECHNOLAB PRIVATE LIMITED,DIPP263179,RECOGNISED,U62099ME2026PTC474528,Validation,Nagpur,Maharashtra,AI,Machine Learning,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a05c061e4b07cca57a0e788,DENGANI BROTHERS LLP,DIPP255586,RECOGNISED,ACF-8822,Scaling,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://www.dhobikaka.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.dhobikaka.com/
+Call log:
+  - navigating to ""https://www.dhobikaka.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+6a05acbde4b07cca57a0cdbc,SHRIJI DESIGN GLOBAL PRIVATE LIMITED,DIPP253710,RECOGNISED,U42102MH2026PTC467415,Scaling,Nagpur,Maharashtra,Design,Others,https://NOT AVAILABLE,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://NOT AVAILABLE
+Call log:
+  - navigating to ""https://NOT AVAILABLE"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a05a3f4e4b07cca57a0bf7a,SRIORA PRIVATE LIMITED,DIPP253343,RECOGNISED,U10504ME2026PTC474113,Validation,Nagpur,Maharashtra,Agriculture,Dairy Farming,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a0487e4e4b07cca579edc21,LOTUS INTERIOR DESIGN STUDIO PRIVATE LIMITED,DIPP261391,RECOGNISED,U74102ME2026PTC474642,Prototype,Nagpur,Maharashtra,Architecture Interior Design,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a045e88e4b07cca579ec046,ASH GLOBAL TECHNOLOGY LLP,DIPP261307,RECOGNISED,ACW-3950,Validation,Nagpur,Maharashtra,IT Services,IT Consulting,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a04415ee4b07cca579ea09b,MAA DURGA COTTON PRIVATE LIMITED,DIPP261221,RECOGNISED,U13111ME2026PTC474710,Prototype,Nagpur,Maharashtra,Agriculture,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a040808e4b07cca579d96f9,LANG DATA SOLUTIONS PRIVATE LIMITED,DIPP261145,RECOGNISED,U62099ME2026PTC474634,Prototype,Nagpur,Maharashtra,IT Services,Product Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6a016be6e4b07cca579bfeb5,MM WEALTH MULTIFARMING INDIA PRIVATE LIMITED,DIPP260522,RECOGNISED,U46302ME2026PTC474185,Prototype,Nagpur,Maharashtra,Agriculture,Animal Husbandry,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69fdce47e4b07cca579b27d7,GAUDHAN GAU SANSTHAN PRIVATE LIMITED,DIPP249476,RECOGNISED,U01499PN2025PTC247986,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Others,https://www.gaudhangauseva.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gaudhangauseva.com/
+Call log:
+  - navigating to ""https://www.gaudhangauseva.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69fdc7f2e4b07cca579b22d1,JAYSIS ISPAT PRIVATE LIMITED,DIPP248949,RECOGNISED,U28999MH2023PTC398083,EarlyTraction,Nagpur,Maharashtra,Construction,Construction & Engineering,https://jaysis.ai,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jaysis.ai/
+Call log:
+  - navigating to ""https://jaysis.ai/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69f5d659e4b07cca5798b14d,MEDANOVA HEALTHTECH PRIVATE LIMITED,DIPP259137,RECOGNISED,U32509MH2025PTC464092,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Technology,"https://www,medanova.in",,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www,medanova.in/
+Call log:
+  - navigating to ""https://www,medanova.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69f5b236e4b07cca5798a3d6,ORBSDIO PRIVATE LIMITED,DIPP259101,RECOGNISED,U62011ME2026PTC473819,Prototype,Nagpur,Maharashtra,IT Services,Product Development,"https://www.orbsdio.com , www.rento.life",,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.orbsdio.com , www.rento.life
+Call log:
+  - navigating to ""https://www.orbsdio.com , www.rento.life"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69f08586e4b07cca57967e6c,SRUSHTI TATVA INDIA PRIVATE LIMITED,DIPP257845,RECOGNISED,U10300MH2025PTC451646,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Others,https://www.srushtitatva.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://www.srushtitatva.com/
+Call log:
+  - navigating to ""https://www.srushtitatva.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+69ef3bfce4b07cca5795f5b2,BOTANIK ROOTS PRIVATE LIMITED,DIPP244665,RECOGNISED,U01611MH2026PTC467386,Prototype,Nagpur,Maharashtra,Agriculture,Others,https://BOTANIK ROOTS PRIVATE LIMITED!,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://BOTANIK ROOTS PRIVATE LIMITED!
+Call log:
+  - navigating to ""https://BOTANIK ROOTS PRIVATE LIMITED!"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69e5f326e4b0e7f6cc6092f5,COHR TALENT MANAGEMENT PRIVATE LIMITED,DIPP256375,RECOGNISED,U78200MH2025PTC451003,EarlyTraction,Nagpur,Maharashtra,Human Resources,Talent Management,https://cohr.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://cohr.in/
+Call log:
+  - navigating to ""https://cohr.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+69e10b33e4b03fe8db9abb80,CFOSYNC AI PRIVATE LIMITED,DIPP231272,RECOGNISED,U69202MH2025PTC457923,EarlyTraction,Nagpur,Maharashtra,AI,Others,https://www.cfosyncai.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cfosyncai.com/
+Call log:
+  - navigating to ""https://www.cfosyncai.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+69d3b454e4b0eeff6308b973,VERTEX GOVERNANCE &amp; INFRA PRIVATE LIMITED,DIPP254377,RECOGNISED,U78300ME2026PTC473621,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69d3725ce4b03eeefb81169f,VEDANT SURGICAL PRIVATE LIMITED,DIPP254286,RECOGNISED,U46596MH2023PTC398861,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Others,https://VEDANT SURGICAL PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://VEDANT SURGICAL PRIVATE LIMITED
+Call log:
+  - navigating to ""https://VEDANT SURGICAL PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69cc14f0e4b0c26a547102df,ORGABIA PRIVATE LIMITED,DIPP253491,RECOGNISED,U46909ME2026PTC474160,EarlyTraction,Nagpur,Maharashtra,Agriculture,Food Processing,https://Under Development,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://Under Development
+Call log:
+  - navigating to ""https://Under Development"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69cb92e4e4b0c26a5470ae77,SAFECARE GASOLINE PRIVATE LIMITED,DIPP253337,RECOGNISED,U11201MH2019PTC330534,EarlyTraction,Nagpur,Maharashtra,Other Specialty Retailers,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69c9e6cde4b0c26a546fc8da,AVENAA HOSPITALITY MANAGEMENT PRIVATE LIMITED,DIPP243637,RECOGNISED,U55101MH2026PTC466811,Prototype,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69c4ef51e4b0c26a546dd0fd,ULHAS ENTERPRISES PRIVATE LIMITED,DIPP252319,RECOGNISED,U42909MH2025PTC463816,Validation,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69bbf4d2e4b0b7e5b72ffba9,SKAND INDUSTRIES PRIVATE LIMITED,DIPP251091,RECOGNISED,U26309MH2026PTC466011,Validation,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69b947c7e4b0b7e5b72ef38b,BANS LIFESTYLE PRIVATE LIMITED,DIPP250590,RECOGNISED,U47711MH2026PTC466483,Validation,Nagpur,Maharashtra,Retail,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69aea5ebe4b0b7e5b72ba75f,FALCON BUILDSYS STRUCTURES (OPC) PRIVATE LIMITED,DIPP248867,RECOGNISED,U25112MH2025OPC459336,EarlyTraction,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69abdeace4b0b7e5b72aec3a,LOGISTIKAS LOGISOL GLOBAL PRIVATE LIMITED,DIPP248549,RECOGNISED,U52290MH2025PTC444017,Scaling,Nagpur,Maharashtra,Transportation & Storage,Freight & Logistics Services,https://logistikaslogisol.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://logistikaslogisol.com/
+Call log:
+  - navigating to ""https://logistikaslogisol.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69a969aae4b0b7e5b72a19a0,SMART TAX &amp; FINANCIAL SOLUTIONS (OPC) PRIVATE LIMITED,DIPP248127,RECOGNISED,U69200ME2026OPC473511,Validation,Nagpur,Maharashtra,Finance Technology,Advisory,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69a28d06e4b0b7e5b72817b7,CHEMKIND INDUSTRIES LLP,DIPP247313,RECOGNISED,ACC-8487,EarlyTraction,Nagpur,Maharashtra,Chemicals,Specialty Chemicals,https://NO,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://no/
+Call log:
+  - navigating to ""https://no/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69a17f27e4b0b7e5b727ba06,SOUVIY GREEN PRIVATE LIMITED,DIPP246913,RECOGNISED,U35105MH2025PTC455226,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+699c53dae4b0a68b6c7eab5d,CLIPCRAFTERZZ LLP,DIPP246055,RECOGNISED,ACV-3115,Validation,Nagpur,Maharashtra,Education,Skill Development,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69998118e4b0a68b6c7d4591,SLURP DADDY LLP,DIPP245838,RECOGNISED,ACQ-2179,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://No Website,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://No Website
+Call log:
+  - navigating to ""https://No Website"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+698df049e4b0a68b6c78ff21,ASHIRWAD PLASTINDIA PRIVATE LIMITED,DIPP244234,RECOGNISED,U25209MH2020PTC346258,EarlyTraction,Nagpur,Maharashtra,Other Specialty Retailers,Others,https://NONE,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://none/
+Call log:
+  - navigating to ""https://none/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+698b0f6fe4b0a68b6c779f63,JOGO OVERSEAS PRIVATE LIMITED,DIPP243696,RECOGNISED,U46309MH2025PTC456815,Prototype,Nagpur,Maharashtra,Agriculture,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+698af71ce4b0a68b6c7787ce,SHILPI ENGINEERS PRIVATE LIMITED,DIPP229808,RECOGNISED,U30923MH2025PTC456257,Prototype,Nagpur,Maharashtra,Renewable Energy,Manufacture of Machinery and Equipment,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+698048efe4b06a6c449d1ee6,V7 DEFENCE INDUSTRIES PRIVATE LIMITED,DIPP242061,RECOGNISED,U28299PN2025PTC240982,Scaling,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://www.v7industries.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.v7industries.com/
+Call log:
+  - navigating to ""https://www.v7industries.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+697dad2de4b06a6c449bfbe5,JAYSIS INTEGRATED ELECTRONICS AND OPTRONICS PRIVATE LIMITED,DIPP241872,RECOGNISED,U31900MH2022PTC381742,Validation,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://jaysis.ai,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jaysis.ai/
+Call log:
+  - navigating to ""https://jaysis.ai/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+697afccbe4b06a6c449a7a39,UNITRACK INDIA PRIVATE LIMITED,DIPP241415,RECOGNISED,U46596MH2026PTC466183,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Medical Devices Biomedical,https://unitrackindiaprivatelimited.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://unitrackindiaprivatelimited.com/
+Call log:
+  - navigating to ""https://unitrackindiaprivatelimited.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+696cf989e4b09f4058c57b5a,AAIRR HEALTHCARE SERVICES PRIVATE LIMITED,DIPP239518,RECOGNISED,U86100PN2025PTC248203,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+696cf8f4e4b09f4058c57b0f,MADWORLD INNOVATIONS LLP,DIPP239514,RECOGNISED,ACU-1698,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+696a130ae4b0df7f2799d9b1,MAMTA BIORESOURCES LLP,DIPP239380,RECOGNISED,ACO-8065,EarlyTraction,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://mamtabioresources.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://mamtabioresources.com/
+Call log:
+  - navigating to ""https://mamtabioresources.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+696494cee4b0df7f2797b3cb,HEALIO PHARMA PRIVATE LIMITED,DIPP238591,RECOGNISED,U21003MH2025PTC448034,EarlyTraction,Nagpur,Maharashtra,Biotechnology,Others,https://NOT AVAILABLE,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://NOT AVAILABLE
+Call log:
+  - navigating to ""https://NOT AVAILABLE"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69623bb4e4b0df7f27971517,PLSIX TELEPI PRIVATE LIMITED,DIPP238465,RECOGNISED,U85499PN2025PTC249601,Validation,Nagpur,Maharashtra,Education,Skill Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69609858e4b0df7f27966e94,UPCRAFT LEARNING PRIVATE LIMITED,DIPP238156,RECOGNISED,U78300MH2025PTC451719,Prototype,Nagpur,Maharashtra,Education,Skill Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+695caafee4b06adb3eb56c00,TEKNEX GLOBAL INNOVATIONS LLP,DIPP237497,RECOGNISED,ACI-3803,Validation,Nagpur,Maharashtra,Education,Education Technology,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6953a8dbe4b03cb05421a8f5,REWATI MEDINOX PRIVATE LIMITED,DIPP236565,RECOGNISED,U74999MH2019PTC323564,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6952227de4b03cb054210f19,IMPORTECH SOLUTIONS LLP,DIPP236315,RECOGNISED,ACS-0654,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+694392f7e4b03cb0541d1e01,SATYABHAMA VIHAR PRIVATE LIMITED,DIPP234645,RECOGNISED,U42909MH2025PTC449547,Validation,Nagpur,Maharashtra,Real Estate,Housing,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+693fc50ae4b03cb0541bd5ae,RAGHUVANT BUILDCON PRIVATE LIMITED,DIPP234103,RECOGNISED,U42909MH2025PTC462156,Validation,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+693d5ad5e4b03cb0541b5c03,VISTAR FIBERLUX TECHNOLOGIES LLP,DIPP233997,RECOGNISED,ACQ-6723,Validation,Nagpur,Maharashtra,Telecommunication & Networking,Integrated communication services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+693c1922e4b03cb0541b0f83,ENRICH GLOBAL XPORT,DIPP235375,RECOGNISED,NG000008151,EarlyTraction,Nagpur,Maharashtra,Logistics,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69300a55e4b03cb05417cafd,MAA AMBIKA TRADING LLP,DIPP232312,RECOGNISED,ACS-9043,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+692eb47fe4b03cb0541761f9,ANJANA GLOBEL PRIVATE LIMITED,DIPP233024,RECOGNISED,U85490MH2021PTC353683,EarlyTraction,Nagpur,Maharashtra,Retail,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+692d7b1de4b03cb054170989,PLACE ASSURED CONSULTANTS PRIVATE LIMITED,DIPP231982,RECOGNISED,U45309MH2021PTC368776,Scaling,Nagpur,Maharashtra,Human Resources,Recruitment Jobs,https://www.placeassured.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.placeassured.com/
+Call log:
+  - navigating to ""https://www.placeassured.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+692ac9dde4b03cb05416673a,YANTRIFY TECHNOLOGIES PRIVATE LIMITED,DIPP231771,RECOGNISED,U26100MH2025PTC444024,Prototype,Nagpur,Maharashtra,Design,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6927f00de4b03cb05415714a,GREEN BITE FOOD SERVICE PRIVATE LIMITED,DIPP231344,RECOGNISED,U56290PN2025PTC245401,Validation,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6926c779e4b03cb054152588,KALLSAIT WYAPAAR PRIVATE LIMITED,DIPP231203,RECOGNISED,U52290MH2025PTC453962,Scaling,Nagpur,Maharashtra,Construction,Construction Materials,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6926c688e4b03cb054152510,CELERIS VENTURES LLP,DIPP231200,RECOGNISED,ACR-7879,Prototype,Nagpur,Maharashtra,AI,Others,https://www.celerisventures.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.celerisventures.com/
+Call log:
+  - navigating to ""https://www.celerisventures.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+69245246e4b03cb054148330,VAT VRIKSH CONSTRUCTIONS PRIVATE LIMITED,DIPP230851,RECOGNISED,U78100MH2025PTC459043,Prototype,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.vatvrikshconstructions.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vatvrikshconstructions.com/
+Call log:
+  - navigating to ""https://www.vatvrikshconstructions.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+691c645be4b03cb0541289e3,DROPLETX PRIVATE LIMITED,DIPP229989,RECOGNISED,U11040MH2025PTC458378,Prototype,Nagpur,Maharashtra,Food & Beverages,Others,https://www.dropletx.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.dropletx.com/
+Call log:
+  - navigating to ""https://www.dropletx.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+691c4fcee4b03cb054127df4,TFNXPRESS FOOD PRIVATE LIMITED,DIPP229954,RECOGNISED,U10618MH2025PTC460812,Prototype,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+691ac5bee4b07810ba1a4a5d,SANJIVEENI AGROSCIENCE LLP,DIPP229711,RECOGNISED,ACR-6743,Prototype,Nagpur,Maharashtra,Agriculture,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+691578a0e4b07810ba18d3aa,PUROMED GLOBAL PRIVATE LIMITED,DIPP229065,RECOGNISED,U46497MH2025PTC458791,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+690d78aae4b07810ba1692fb,CANNAN CARBON PRIVATE LIMITED,DIPP224602,RECOGNISED,U46610MH2025PTC445753,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6909d906e4b06dfd0cafc737,LEGENDARY GROWTH SOLUTIONS LLP,DIPP227745,RECOGNISED,ACD-2028,Scaling,Nagpur,Maharashtra,IT Services,IT Consulting,https://www.legendarygrowthsolutions.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.legendarygrowthsolutions.com/
+Call log:
+  - navigating to ""https://www.legendarygrowthsolutions.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+69074069e4b06dfd0caef8ae,SHREE RR INFRA UDYOG PRIVATE LIMITED,DIPP227484,RECOGNISED,U24311MH2025PTC454705,Validation,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6901f248e4b063a5bedcb252,GREENFARM BIO-SEED PRIVATE LIMITED,DIPP226968,RECOGNISED,U20210MH2024PTC435422,EarlyTraction,Nagpur,Maharashtra,Agriculture,Others,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68f21363e4b063a5bed606df,CHUDIWAL AGRO &amp; FOOD INDUSTRY PRIVATE LIMITED,DIPP226018,RECOGNISED,U15549MH2020PTC341809,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://www.chudiwal.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.chudiwal.com/
+Call log:
+  - navigating to ""https://www.chudiwal.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+68f1cd0be4b063a5bed5dc10,SYNERGYBITS PRIVATE LIMITED,DIPP225955,RECOGNISED,U62011MH2025PTC455837,EarlyTraction,Nagpur,Maharashtra,IT Services,Web Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68efde00e4b063a5bed53276,ERANIKH INDIA PRIVATE LIMITED,DIPP225797,RECOGNISED,U46529PN2025PTC246862,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68ea1e86e4b063a5bed2e88d,ROYALKUNJ CRAFTS PRIVATE LIMITED,DIPP225247,RECOGNISED,U17095PN2025PTC247100,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68e9e52ee4b063a5bed2cdd3,CARGOWAVE SHIPPING AND LOGISTICS PRIVATE LIMITED,DIPP225197,RECOGNISED,U53200MH2025PTC457333,Prototype,Nagpur,Maharashtra,Logistics,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68e8edb4e4b063a5bed29076,NIRMAL POWER SERVICES PRIVATE LIMITED,DIPP225145,RECOGNISED,U43210MH2024PTC424017,Validation,Nagpur,Maharashtra,Technology Hardware,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68e74ae7e4b032c5c219ff13,M.SONS STEELTECH PRIVATE LIMITED,DIPP224905,RECOGNISED,U24311MH2025PTC456677,Scaling,Nagpur,Maharashtra,Construction,Construction Supplies & Fixtures,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68e3ac8de4b032c5c218dffb,GIAS LAB LLP,DIPP224511,RECOGNISED,ACR-6872,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68d68671e4b032c5c214e27f,FINEAURA AGRI AND BIOFUELS PRIVATE LIMITED,DIPP223313,RECOGNISED,U19204MH2025PTC452786,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68d5330ce4b032c5c2142192,DHANYA RAKSHA ANALYTICS PRIVATE LIMITED,DIPP223129,RECOGNISED,U58200MH2025PTC455477,Validation,Nagpur,Maharashtra,AI,Others,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68d51b60e4b032c5c2140c9a,HAMSA TRADINGS,DIPP228801,RECOGNISED,NG000010813,Validation,Nagpur,Maharashtra,Waste Management,Others,https://www.hamsatradings.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hamsatradings.com/
+Call log:
+  - navigating to ""https://www.hamsatradings.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68d3a3cde4b032c5c2133b50,ELEKTRABUILD ENGINEERING (OPC) PRIVATE LIMITED,DIPP222823,RECOGNISED,U43211PN2025OPC245876,EarlyTraction,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68cd389ee4b032c5c21036d7,GREENTREADZ MOBILITY SOLUTIONS PRIVATE LIMITED,DIPP222199,RECOGNISED,U45200MH2025PTC457454,Validation,Nagpur,Maharashtra,Automotive,Tires & Rubber Products,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68cb8df8e4b06315917c3d74,ARKANGELS OVERSEAS PRIVATE LIMITED,DIPP221907,RECOGNISED,U53200MH2025PTC456736,Prototype,Nagpur,Maharashtra,Logistics,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68ca4392e4b032bcb0bfe17b,LVGR WELLNESS PRIVATE LIMITED,DIPP217201,RECOGNISED,U62090MH2025PTC440475,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare IT,https://www.livegracious.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.livegracious.co.in/
+Call log:
+  - navigating to ""https://www.livegracious.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68c54233e4b097271d4a006e,STANC ENTERTAINMENT LLP,DIPP221315,RECOGNISED,ACN-4567,Prototype,Nagpur,Maharashtra,Media & Entertainment,Entertainment,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68c26cb9e4b0dfd7e6e7ab3e,TELECARE SERVICES,DIPP229650,RECOGNISED,4.65001E+12,Scaling,Nagpur,Maharashtra,Security Solutions,Public Citizen Security Solutions,https://telecareservices.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://telecareservices.com/
+Call log:
+  - navigating to ""https://telecareservices.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68be8f24e4b0c6365be10e0e,ACCURATE CONFORMITY AND TESTING PRIVATE LIMITED,DIPP220404,RECOGNISED,U70200MH2025PTC455159,EarlyTraction,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68b7cddfe4b0c6365bddd502,HARIBASANTI ENTERPRISES LLP,DIPP219624,RECOGNISED,ACQ-8978,Prototype,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68b6dee0e4b0c6365bdd8dbf,EXCELLWORLD RESTRO CLUB AND RESORTS PRIVATE LIMITED,DIPP219573,RECOGNISED,U55101MH2025PTC439565,Validation,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68ac439ae4b021e0fa5f0346,AKASHGANGA AQUA TECH PRIVATE LIMITED,DIPP214134,RECOGNISED,U11043MH2024PTC425542,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://aquagenerators.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aquagenerators.in/
+Call log:
+  - navigating to ""https://aquagenerators.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68ac21cde4b021e0fa5ebf3d,KAMY INDIA LLP,DIPP218186,RECOGNISED,ACN-3783,Prototype,Nagpur,Maharashtra,Construction,Construction & Engineering,https://KAMY INDIA LLP,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://KAMY INDIA LLP
+Call log:
+  - navigating to ""https://KAMY INDIA LLP"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68aad249e4b021e0fa5d63e1,SHAVREAL PHARMACEUTICALS PRIVATE LIMITED,DIPP218102,RECOGNISED,U46497MH2025PTC450532,EarlyTraction,Nagpur,Maharashtra,Marketing,Sales,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68a9aebbe4b021e0fa5c4d9a,REACHOUT PLUS LLP,DIPP218049,RECOGNISED,ACM-7788,EarlyTraction,Nagpur,Maharashtra,IT Services,BPO,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68a55f95e4b021e0fa565538,ERECTRON SOLUTION (OPC) PRIVATE LIMITED,DIPP217387,RECOGNISED,U43219MH2025OPC451533,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68a05159e4b021e0fa50cce6,UPLYNK NETWORKS PRIVATE LIMITED,DIPP216943,RECOGNISED,U63119PN2025PTC243493,Validation,Nagpur,Maharashtra,IT Services,Others,https://www.uplynknetworks.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.uplynknetworks.com/
+Call log:
+  - navigating to ""https://www.uplynknetworks.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+689b3734e4b0f62ba8a68839,MAHAPARVAT PRIVATE LIMITED,DIPP216444,RECOGNISED,U66300MH2025PTC450893,EarlyTraction,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://mahaparvat.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mahaparvat.com/
+Call log:
+  - navigating to ""https://mahaparvat.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+689b0244e4b0f62ba8a61d2c,RUTUSAR BUILDER AND DEVELOPERS PRIVATE LIMITED,DIPP216362,RECOGNISED,U43299MH2024PTC425768,Validation,Nagpur,Maharashtra,Construction,Homebuilding,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6899a9ade4b0f62ba8a4686f,ECONEST HOSPITALITY PRIVATE LIMITED,DIPP216158,RECOGNISED,U55101MH2025PTC451342,Validation,Nagpur,Maharashtra,Events,Event Management,https://econesthospitality.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://econesthospitality.com/
+Call log:
+  - navigating to ""https://econesthospitality.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68944ce9e4b043b22d2ef230,HUMONZ CLOTHING LLP,DIPP215688,RECOGNISED,ACP-9753,Scaling,Nagpur,Maharashtra,Textiles & Apparel,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68908ae0e4b043b22d2a3ac5,ELOHIM FILM PRODUCTION PRIVATE LIMITED,DIPP212140,RECOGNISED,U59112MH2023PTC413407,Validation,Nagpur,Maharashtra,Media & Entertainment,Entertainment,https://www.elohimfilmproduction.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.elohimfilmproduction.com/
+Call log:
+  - navigating to ""https://www.elohimfilmproduction.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+688dc3b7e4b043b22d27fb69,FLUXION INNOVATION PRIVATE LIMITED,DIPP214779,RECOGNISED,U62099MH2025PTC445371,EarlyTraction,Nagpur,Maharashtra,AI,Machine Learning,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+688dae9de4b043b22d27dd4a,DAMYANTI AGRICHEM SERVICES PRIVATE LIMITED,DIPP214753,RECOGNISED,U10402MH2023PTC406626,Validation,Nagpur,Maharashtra,Agriculture,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+688c6db7e4b043b22d26cbc5,HEALINGMONK LLP,DIPP214668,RECOGNISED,ACP-7752,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68822dcbe4b0861e7e7d1285,URJAAYAN PRIVATE LIMITED,DIPP213755,RECOGNISED,U35105MH2025PTC439430,EarlyTraction,Nagpur,Maharashtra,Agriculture,Others,https://not available,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://not available
+Call log:
+  - navigating to ""https://not available"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6881f2a9e4b0861e7e7ca83a,SHAILNATH CONSULTING PRIVATE LIMITED,DIPP213694,RECOGNISED,U62099MH2025PTC438679,Prototype,Nagpur,Maharashtra,Marketing,Discovery,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+687b9d0fe4b0861e7e76412f,EPPZI PHARMA PRIVATE LIMITED,DIPP213117,RECOGNISED,U21001MH2025PTC449244,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6872ca0ae4b074eae6cef0dc,NIDRAZ PRIVATE LIMITED,DIPP212088,RECOGNISED,U31005MH2023PTC408049,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://www.nidraz.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nidraz.com/
+Call log:
+  - navigating to ""https://www.nidraz.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6867b41fe4b0c1da35b600f5,FLORINEXT BIOSOLUTIONS LLP,DIPP211015,RECOGNISED,ACK-1218,Validation,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68638055e4b06dfc4c9f717b,GROWSHINE MARKETING AND TRADING PRIVATE LIMITED,DIPP210325,RECOGNISED,U46209MH2025PTC443169,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68628800e4b06dfc4c9f38c6,IND D'SIN ENGG PRIVATE LIMITED,DIPP209848,RECOGNISED,U24109MH2025PTC448387,Validation,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+685e70aae4b06dfc4c9e32be,DEFY LIMITS XTREME ADVENTURE SPORTS PRIVATE LIMITED,DIPP209843,RECOGNISED,U93190MH2025PTC449580,Prototype,Nagpur,Maharashtra,Sports,Others,https://n/a,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to ""https://n/a"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+685e4ed4e4b06dfc4c9e22e3,AWSHIT LIFECARE PRIVATE LIMITED,DIPP209827,RECOGNISED,U21001MH2025PTC446533,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://awshitlifecare.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://awshitlifecare.com/
+Call log:
+  - navigating to ""https://awshitlifecare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+685d468ee4b06dfc4c9ddfa9,DVSLA TECHNOLOGIES PRIVATE LIMITED,DIPP209773,RECOGNISED,U27101MH2025PTC448587,Prototype,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://www.hertzcharge.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.hertzcharge.in/
+Call log:
+  - navigating to ""https://www.hertzcharge.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+685d31f1e4b091a0bbf4de78,VIRAAJ PAINTS AND COATING PRIVATE LIMITED,DIPP209732,RECOGNISED,U20221PN2025PTC239971,EarlyTraction,Nagpur,Maharashtra,Chemicals,Others,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6852d5eee4b04240c52b8b0a,EVOLVEEQ TECH SOLUTIONS PRIVATE LIMITED,DIPP208551,RECOGNISED,U62090MH2025PTC442545,Validation,Nagpur,Maharashtra,IT Services,Others,https://evolveeq.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://evolveeq.in/
+Call log:
+  - navigating to ""https://evolveeq.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+685292b5e4b04240c52b6fa1,GITAMRI ENTERPRISE PRIVATE LIMITED,DIPP208462,RECOGNISED,U46300MH2025PTC448464,Validation,Nagpur,Maharashtra,Food & Beverages,Others,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+684fa378e4b04240c52a946e,SAFEWRAP INDUSTRIES,DIPP208099,RECOGNISED,NG000008503,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Commercial Printing Services,https://SAFEWRAP INDUSTRIES,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SAFEWRAP INDUSTRIES
+Call log:
+  - navigating to ""https://SAFEWRAP INDUSTRIES"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+684d2b46e4b04240c52a32b2,DOZEN DIAMONDS INDIA PRIVATE LIMITED,DIPP207878,RECOGNISED,U64990MH2023PTC401121,EarlyTraction,Nagpur,Maharashtra,Finance Technology,Trading,https://www.dozendiamonds.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dozendiamonds.com/
+Call log:
+  - navigating to ""https://www.dozendiamonds.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+684ae583e4b04240c529b1a6,TECHVANCE INNOVATIONS PRIVATE LIMITED,DIPP207618,RECOGNISED,U62020MH2024PTC420922,Scaling,Nagpur,Maharashtra,Design,Others,https://TechvanceInnovations.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://techvanceinnovations.com/
+Call log:
+  - navigating to ""https://techvanceinnovations.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+684abfaae4b04240c529a563,CYBERFLUX ENTERPRISES PRIVATE LIMITED,DIPP207575,RECOGNISED,U32403MH2023PTC408214,Validation,Nagpur,Maharashtra,IT Services,Product Development,https://CYBERFLUX ENTERPRISES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://CYBERFLUX ENTERPRISES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://CYBERFLUX ENTERPRISES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+684a81e0e4b04240c529868b,TERRATHRIVE INDIA LLP,DIPP207480,RECOGNISED,ACO-7037,Validation,Nagpur,Maharashtra,Logistics,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68495cc9e4b0a122c128f78a,DARSAM INSURANCE MARKETING PRIVATE LIMITED,DIPP207350,RECOGNISED,U65110MH2023PTC407774,EarlyTraction,Nagpur,Maharashtra,Finance Technology,Insurance,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6842e229e4b0725998bd6caa,SUNPOWER DYNAMICS PRIVATE LIMITED,DIPP206817,RECOGNISED,U35105MH2024PTC437010,Prototype,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.sunpowerdynamics.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sunpowerdynamics.com/
+Call log:
+  - navigating to ""https://www.sunpowerdynamics.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68403d2be4b0c230967dea43,MIHIR INSTITUTIONS PRIVATE LIMITED,DIPP206498,RECOGNISED,U85500MH2025PTC446846,Validation,Nagpur,Maharashtra,Education,Others,https://nil,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6839bfdce4b020f36eebd4d8,ASHTMARG SOLUTIONS PRIVATE LIMITED,DIPP205814,RECOGNISED,U35105MH2025PTC440619,Scaling,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://www.ashtmargsolutoins.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ashtmargsolutoins.com/
+Call log:
+  - navigating to ""https://www.ashtmargsolutoins.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68385307e4b029850b96cf61,SAMYRA IMPEX PRIVATE LIMITED,DIPP205652,RECOGNISED,U74999MH2018PTC314576,EarlyTraction,Nagpur,Maharashtra,Logistics,Others,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68381226e4b029850b96a96f,SAFE UNIVERSE RESEARCH AND PRODUCTIVITY PRIVATE LIMITED,DIPP205556,RECOGNISED,U72100MH2025PTC441761,Prototype,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.safeuniverseresearch.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.safeuniverseresearch.com/
+Call log:
+  - navigating to ""https://www.safeuniverseresearch.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6836aef1e4b029850b962fba,JEKORD PROJECT LLP,DIPP205358,RECOGNISED,ACG-5960,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68359184e4b029850b95e61a,MODU-PRO INNOVATION PRIVATE LIMITED,DIPP205248,RECOGNISED,U20295MH2025PTC447155,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://MODU-PRO INNOVATION PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://MODU-PRO INNOVATION PRIVATE LIMITED
+Call log:
+  - navigating to ""https://MODU-PRO INNOVATION PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+682f21dde4b0cf6e6488e132,X ABLE INDIA PRIVATE LIMITED,DIPP204632,RECOGNISED,U47990PN2024PTC228887,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+682d9770e4b0cf6e648864fa,WANZEN ENDEAVORS PRIVATE LIMITED,DIPP204378,RECOGNISED,U46309MH2024PTC436255,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,http://wanzenfoods.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wanzenfoods.com/
+Call log:
+  - navigating to ""http://wanzenfoods.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+682c65ffe4b0cf6e6488186b,K S INFRATECH MANPOWER LLP,DIPP204253,RECOGNISED,ACN-7586,Validation,Nagpur,Maharashtra,Human Resources,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+682c3999e4b0cf6e648800a3,NEXTGEN TECHNOLOGY WORLD CREATER PRIVATE LIMITED,DIPP204204,RECOGNISED,U62099MH2025PTC440760,Validation,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://NEXTGEN TECHNOLOGY WORLD CREATER PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://NEXTGEN TECHNOLOGY WORLD CREATER PRIVATE LIMITED
+Call log:
+  - navigating to ""https://NEXTGEN TECHNOLOGY WORLD CREATER PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6828966de4b0cf6e64872cc2,IAMFIRST DIGITIONS SOLUTIONS (I) PRIVATE LIMITED,DIPP203964,RECOGNISED,U72501MH2018PTC306188,EarlyTraction,Nagpur,Maharashtra,IT Services,Product Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+682829bce4b0cf6e648709cb,LEVITATE DYNAMICS PRIVATE LIMITED,DIPP203861,RECOGNISED,U30305MH2025PTC447508,Prototype,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://NA--,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na--/
+Call log:
+  - navigating to ""https://na--/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6825dabfe4b025b6b8a8001e,XEROX ECOMMERCE SERVICE PRIVATE LIMITED,DIPP203636,RECOGNISED,U47912MH2025PTC447864,Validation,Nagpur,Maharashtra,Retail,Retail Technology,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6825bc40e4b025b6b8a7f033,KGBAIS DIGITAL SERVICES PRIVATE LIMITED,DIPP203596,RECOGNISED,U72900MH2022PTC394292,Validation,Nagpur,Maharashtra,Media & Entertainment,Digital Media,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6825883ce4b025b6b8a7d677,UNISEES SOLAR PRIVATE LIMITED,DIPP203528,RECOGNISED,U35105PN2025PTC241428,Prototype,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://n/a,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to ""https://n/a"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+681dbd8ae4b010f8c8cefc49,DIPTHI HEALTH CARE SERVICES PRIVATE LIMITED,DIPP202937,RECOGNISED,U86201MH2025PTC443004,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+681ca939e4b010f8c8cec508,RNA CURE PRIVATE LIMITED,DIPP202867,RECOGNISED,U72200MH2025PTC441393,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+681bc771e4b010f8c8ce8164,NAMDEO INNOVATIONS PRIVATE LIMITED,DIPP202755,RECOGNISED,U28290MH2025PTC443062,Validation,Nagpur,Maharashtra,Automotive,Others,https://www.naturewynn.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.naturewynn.com/
+Call log:
+  - navigating to ""https://www.naturewynn.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6815a876e4b0ea43c8ef3317,SOCIALHOOK TECHNOLOGIES PRIVATE LIMITED,DIPP202190,RECOGNISED,U63120MH2025PTC446413,Validation,Nagpur,Maharashtra,Social Network,Others,https://socialhookapp.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://socialhookapp.com/
+Call log:
+  - navigating to ""https://socialhookapp.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6811eb27e4b0611108b3f391,MUDITAA INFOSOFT LLP,DIPP201809,RECOGNISED,ACC-2122,EarlyTraction,Nagpur,Maharashtra,Enterprise Software,Others,https://: https://obhau.com,,,,OK,,,,0,ERROR,"Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""https://: https://obhau.com"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+6811e08ae4b0611108b3ed8e,JAYKAMAL FOODS PRIVATE LIMITED,DIPP201796,RECOGNISED,U56103MH2025PTC441858,Prototype,Nagpur,Maharashtra,Agriculture,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+681087d5e4b0611108b35807,EARNLINGUA (OPC) PRIVATE LIMITED,DIPP201613,RECOGNISED,U85499MH2025OPC446395,EarlyTraction,Nagpur,Maharashtra,Education,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68075cd0e4b0611108b0f13e,APEXSOFTNET PRIVATE LIMITED,DIPP200700,RECOGNISED,U62020MH2023PTC402006,Validation,Nagpur,Maharashtra,Enterprise Software,Others,https://APEXSOFTNET PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://APEXSOFTNET PRIVATE LIMITED
+Call log:
+  - navigating to ""https://APEXSOFTNET PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+68033087e4b0e456e35c198d,NISHIKANT ARCHANA CHOUDHARI SOCIAL FOUNDATION,DIPP200359,RECOGNISED,U88900MH2025NPL440956,Validation,Nagpur,Maharashtra,Social Impact,NGO,https://NIL,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nil/
+Call log:
+  - navigating to ""https://nil/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+680239ace4b0e456e35bee37,RELIRA BLASTECH PRIVATE LIMITED,DIPP199629,RECOGNISED,U28193MH2024PTC433299,Validation,Nagpur,Maharashtra,Internet of Things,Others,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6801ecd9e4b0e456e35bcd27,OODA PROFESSIONAL INSTITUTE PRIVATE LIMITED,DIPP200223,RECOGNISED,U85499MH2023PTC408864,Validation,Nagpur,Maharashtra,Finance Technology,Trading,https://oodatraders.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://oodatraders.com/
+Call log:
+  - navigating to ""https://oodatraders.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67fdecb0e4b0e456e35aaa7c,ESENES STEEL LLP,DIPP199799,RECOGNISED,ACN-3610,Validation,Nagpur,Maharashtra,Construction,Others,https://ESENES STEEL LLP,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ESENES STEEL LLP
+Call log:
+  - navigating to ""https://ESENES STEEL LLP"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67fcd28fe4b0e456e35a6ef0,SPLENDITONE INTERNATIONAL HEALTHCARE PRIVATE LIMITED,DIPP199689,RECOGNISED,U85100MH2022PTC382534,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67f788c6e4b0e456e3594fd7,STARSPLANNET DIGITAL PRIVATE LIMITED,DIPP199299,RECOGNISED,U66190MH2025PTC443881,Validation,Nagpur,Maharashtra,Finance Technology,Point of Sales,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67f4e58de4b0e456e3588e0d,AIO TRADING INDIA (OPC) PRIVATE LIMITED,DIPP198963,RECOGNISED,U46690MH2025OPC442251,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://aiotrading.co/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aiotrading.co/
+Call log:
+  - navigating to ""https://aiotrading.co/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67ef77f8e4b0e456e3570365,WHITE GOLD AGRO PROCESSORS LLP,DIPP198516,RECOGNISED,AAL-8505,Scaling,Nagpur,Maharashtra,Agriculture,Others,https://www.nowebsite.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nowebsite.com/
+Call log:
+  - navigating to ""https://www.nowebsite.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67e7cb83e4b06cb5475f2b3b,SINGLE POINT ENERGY SOLUTIONS PRIVATE LIMITED,DIPP197806,RECOGNISED,U45500MH2018PTC318216,Scaling,Nagpur,Maharashtra,Construction,Construction & Engineering,https://SINGLE POINT ENERGY SOLUTIONS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SINGLE POINT ENERGY SOLUTIONS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SINGLE POINT ENERGY SOLUTIONS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67e63948e4b0dcb9493b41fb,EDUPEAK SCHOLARS PRIVATE LIMITED,DIPP197579,RECOGNISED,U85499MH2025PTC442462,Validation,Nagpur,Maharashtra,Education,Skill Development,https://EDUPEAK SCHOLARS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://EDUPEAK SCHOLARS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://EDUPEAK SCHOLARS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67e26899e4b06de30953a8a6,MANYA CLASSICS PRIVATE LIMITED,DIPP197102,RECOGNISED,U55101MH2024PTC437079,Prototype,Nagpur,Maharashtra,Real Estate,Coworking Spaces,https://Under Process,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://Under Process
+Call log:
+  - navigating to ""https://Under Process"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67dc00eee4b079e98982f686,MINGLEBUCKS GLOBAL PRIVATE LIMITED,DIPP196518,RECOGNISED,U63120MH2025PTC440064,Prototype,Nagpur,Maharashtra,Media & Entertainment,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67dbce07e4b079e98982b785,IBIA INDUSTRIAL BATTERIES PRIVATE LIMITED,DIPP196446,RECOGNISED,U27200MH2024PTC418769,EarlyTraction,Nagpur,Maharashtra,Renewable Energy,Manufacture of Electrical Equipment,http://ibiaindustrials.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ibiaindustrials.in/
+Call log:
+  - navigating to ""http://ibiaindustrials.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67da6ffae4b00e0c1b1a0f4c,HOPEVE SOLUTIONS LLP,DIPP194086,RECOGNISED,ACD-2797,Scaling,Nagpur,Maharashtra,Security Solutions,Others,https://WWW.HOPEVE.COM,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hopeve.com/
+Call log:
+  - navigating to ""https://www.hopeve.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67cee17ae4b00e0c1b0a93da,ALTRIX AGRO FARM PRIVATE LIMITED,DIPP195278,RECOGNISED,U68200MH2025PTC439515,Prototype,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://altrixagrofarm.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://altrixagrofarm.com/
+Call log:
+  - navigating to ""https://altrixagrofarm.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67c6d58ee4b0f37094cb3dc1,AZURECHIC PHARMACEUTICAL PRIVATE LIMITED,DIPP194465,RECOGNISED,U46497MH2025PTC441605,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67bdba2be4b0c167e9f99c81,VOICE VILLA STUDIOS PRIVATE LIMITED,DIPP193586,RECOGNISED,U59201MH2023PTC401281,EarlyTraction,Nagpur,Maharashtra,Advertising,AdTech,https://UdyamRegistrationCertificate,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://udyamregistrationcertificate/
+Call log:
+  - navigating to ""https://udyamregistrationcertificate/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67b86940e4b06e2290ada149,QUANTUM RAIDOTECH PRIVATE LIMITED,DIPP193118,RECOGNISED,U52290MH2024PTC420235,EarlyTraction,Nagpur,Maharashtra,Transportation & Storage,Passenger Transportation Services,http://raidobiketaxi.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://raidobiketaxi.in/
+Call log:
+  - navigating to ""http://raidobiketaxi.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67b7253ae4b06e2290aceb4c,INDS ELECTRICALS PRIVATE LIMITED,DIPP192985,RECOGNISED,U40106MH2020PTC337883,Validation,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://www.indselectriclas.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.indselectriclas.com/
+Call log:
+  - navigating to ""https://www.indselectriclas.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67add14ce4b0833282ef7d35,INDS AGRO INDUSTRY PRIVATE LIMITED,DIPP192133,RECOGNISED,U15200MH2022PTC395225,Validation,Nagpur,Maharashtra,Agriculture,Food Processing,https://INDS AGRO INDUSTRY PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://INDS AGRO INDUSTRY PRIVATE LIMITED
+Call log:
+  - navigating to ""https://INDS AGRO INDUSTRY PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67ad89bbe4b045171969bc04,SKYREN BROADBAND SERVICES PRIVATE LIMITED,DIPP190038,RECOGNISED,U72900MH2022PTC394587,EarlyTraction,Nagpur,Maharashtra,Internet of Things,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67ac5bf5e4b04517196941f0,SYBOCIC REAL EASTATE PRIVATE LIMITED,DIPP191951,RECOGNISED,U41001MH2025PTC437615,Scaling,Nagpur,Maharashtra,Real Estate,Others,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67ab4183e4b0e8e31271f6f8,OMMAHADEV AYURVEDA AND PHARMA PRIVATE LIMITED,DIPP191894,RECOGNISED,U21001MH2024PTC431004,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67a43e61e4b0a671abf4be2b,SGUARD AUTOMATION PRIVATE LIMITED,DIPP191231,RECOGNISED,U34100MH2021PTC359457,EarlyTraction,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://SGUARD AUTOMATION PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SGUARD AUTOMATION PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SGUARD AUTOMATION PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+679db6e4e4b0c8d671af7be0,DS CORRUPACK PRIVATE LIMITED,DIPP190679,RECOGNISED,U22203MH2024PTC431453,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Supplies,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+679b26eae4b01d22e013535b,KDKOLTE TASTY GO PRIVATE LIMITED,DIPP190396,RECOGNISED,U56290MH2024PTC428257,Prototype,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+678f9a24e4b04104efa167ed,RISING STAR,DIPP194219,RECOGNISED,NG000010378,Validation,Nagpur,Maharashtra,Safety,Others,https://www.risingstarcng.com/hostpanel/login/webmail,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.risingstarcng.com/hostpanel/login/webmail
+Call log:
+  - navigating to ""https://www.risingstarcng.com/hostpanel/login/webmail"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+678e1740e4b04104efa1062f,R &amp; R HERBAL BIOCARE LLP,DIPP189166,RECOGNISED,AAY-6548,Validation,Nagpur,Maharashtra,Agriculture,Others,https://www.rrherbalbiocareservices.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rrherbalbiocareservices.com/
+Call log:
+  - navigating to ""https://www.rrherbalbiocareservices.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6789ddf7e4b04104efa03015,VIRTUAL TRADE BALE HUB PRIVATE LIMITED,DIPP188882,RECOGNISED,U46109MH2024PTC426006,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://www.balehub.link/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.balehub.link/
+Call log:
+  - navigating to ""https://www.balehub.link/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67868481e4b04104ef9f9cbb,ADIVIDHYA CONSTRUCTION LLP,DIPP188665,RECOGNISED,ACD-5504,EarlyTraction,Nagpur,Maharashtra,Construction,Construction & Engineering,https://Not applicable,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://Not applicable
+Call log:
+  - navigating to ""https://Not applicable"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6784b779e4b0086ce8e3c02b,SHRIPUNYA EPC PRIVATE LIMITED,DIPP188449,RECOGNISED,U71100MH2024PTC434890,Validation,Nagpur,Maharashtra,Computer Vision,Others,https://SHRIPUNYA EPC PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SHRIPUNYA EPC PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SHRIPUNYA EPC PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67811886e4b0086ce8e3263a,SECYORO TECHNOLOGIES PRIVATE LIMITED,DIPP188309,RECOGNISED,U62099PN2024PTC234714,Prototype,Nagpur,Maharashtra,IT Services,IT Management,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6780d106e4b0086ce8e30d7d,SHIVAANI HYGIENE PRIVATE LIMITED,DIPP188243,RECOGNISED,U17299MH2022PTC388446,Scaling,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://www.vaidyaindustries.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.vaidyaindustries.in/
+Call log:
+  - navigating to ""https://www.vaidyaindustries.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+677bb3cbe4b0f84ff2b64b51,AMRIT OXIDANE PRIVATE LIMITED,DIPP187744,RECOGNISED,U33122MH2024PTC421552,EarlyTraction,Nagpur,Maharashtra,Green Technology,Clean Tech,https://0,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ADDRESS_INVALID at https://0.0.0.0/
+Call log:
+  - navigating to ""https://0.0.0.0/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+6772aa41e4b0e15a7fe636e7,RAGES FASHION HOUSE INDIA (OPC) PRIVATE LIMITED,DIPP187136,RECOGNISED,U14101MH2024OPC434947,Validation,Nagpur,Maharashtra,Fashion,Others,https://RAGES FASHION HOUSE INDIA (OPC) PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://RAGES FASHION HOUSE INDIA (OPC) PRIVATE LIMITED
+Call log:
+  - navigating to ""https://RAGES FASHION HOUSE INDIA (OPC) PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67654717e4b02edde77f4f1f,PURPOSE HEALTHCARE LABS PRIVATE LIMITED,DIPP186092,RECOGNISED,U11049MH2024PTC426250,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://PURPOSE HEALTHCARE LABS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://PURPOSE HEALTHCARE LABS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://PURPOSE HEALTHCARE LABS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6763c2d2e4b090dc29023e25,BHUMISAAR ENTERPRISES PRIVATE LIMITED,DIPP185931,RECOGNISED,U46909PN2024PTC236003,Prototype,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67617738e4b035f7d75690aa,STEELCOOL COOLERS PRIVATE LIMITED,DIPP185780,RECOGNISED,U27501MH2024PTC424771,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6761751fe4b035f7d7568fbe,ROSPAND GLOBAL TECHNO SERVICES PRIVATE LIMITED,DIPP185777,RECOGNISED,U01120MH2024PTC435564,Validation,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://rospand.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rospand.com/
+Call log:
+  - navigating to ""https://rospand.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+675ad74be4b0e761d3171610,CARBON GREEN SOLUTION PRIVATE LIMITED,DIPP185311,RECOGNISED,U51909MH2022PTC380577,Validation,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+675ac758e4b0e761d3170f6b,DSPB SUPERFOODS PRIVATE LIMITED,DIPP185293,RECOGNISED,U47737MH2024PTC417909,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67582fdce4b0953e58b21e72,AAVRAJAN SERVICES PRIVATE LIMITED,DIPP185080,RECOGNISED,U66190MH2024PTC434787,Prototype,Nagpur,Maharashtra,Finance Technology,Foreign Exchange,https://moneykauf.com/home/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_CLOSED at https://moneykauf.com/home/
+Call log:
+  - navigating to ""https://moneykauf.com/home/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+674ef330e4b0c0da2133d9fc,CHA IMPEX LLP,DIPP184440,RECOGNISED,ACK-3835,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://na,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+674b0057e4b0c0da2133050d,GAURAVI INTERNATIONAL PRIVATE LIMITED,DIPP184205,RECOGNISED,U10795MH2023PTC403375,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://GAURAVI INTERNATIONAL PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://GAURAVI INTERNATIONAL PRIVATE LIMITED
+Call log:
+  - navigating to ""https://GAURAVI INTERNATIONAL PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+674aebe2e4b0c0da2132fe4d,BUSTBRAIN LABS (OPC) PRIVATE LIMITED,DIPP184190,RECOGNISED,U62013PN2024OPC235510,EarlyTraction,Nagpur,Maharashtra,Enterprise Software,Others,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6749a068e4b02d7a79000f6e,EFRGENZ PRIVATE LIMITED,DIPP184101,RECOGNISED,U35106MH2023PTC410135,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67470827e4b079d818347f14,VECTORTEK LABS PRIVATE LIMITED,DIPP183850,RECOGNISED,U62013MH2024PTC433874,Validation,Nagpur,Maharashtra,IT Services,Application Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+673b3beae4b061047b5e4c97,WISE-BESARV EV PRIVATE LIMITED,DIPP182972,RECOGNISED,U29109MH2024PTC420376,EarlyTraction,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://www.wisebesarvev.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.wisebesarvev.com/
+Call log:
+  - navigating to ""https://www.wisebesarvev.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+673882dae4b061047b5dcff5,SHARIDHS TECH SOLUTIONS,DIPP183898,RECOGNISED,NG000010211,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://bighelpr.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bighelpr.com/
+Call log:
+  - navigating to ""https://bighelpr.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+673873ace4b061047b5dcb3a,WIT WEB INTEGRATED TECHNOLOGY PRIVATE LIMITED,DIPP182825,RECOGNISED,U62090MH2024PTC433634,Validation,Nagpur,Maharashtra,IT Services,Web Development,https://www.webintegratedtech.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.webintegratedtech.com/
+Call log:
+  - navigating to ""https://www.webintegratedtech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6733028fe4b017491c4e9ddc,CLEOO COSMETICS PRIVATE LIMITED,DIPP182341,RECOGNISED,U20237MH2023PTC409694,Prototype,Nagpur,Maharashtra,Retail,Retail Technology,https://Home-Cleoo Cosmetic,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://Home-Cleoo Cosmetic
+Call log:
+  - navigating to ""https://Home-Cleoo Cosmetic"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67319ae2e4b017491c4e47c8,PINAKRAJ CLASSICS PRIVATE LIMITED,DIPP182226,RECOGNISED,U47912PN2024PTC231795,Prototype,Nagpur,Maharashtra,Fashion,Apparel,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6729e353e4b0a3f67b48e879,RVT PHARMA ENTERPRISES PRIVATE LIMITED,DIPP181778,RECOGNISED,U47720MH2023PTC415630,Prototype,Nagpur,Maharashtra,Marketing,Sales,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6721fa52e4b01514dfdbfc5c,A K SANTRA ASSOCIATE AND CONSULTANT PRIVATE LIMITED,DIPP181617,RECOGNISED,U82990MH2024PTC430821,Validation,Nagpur,Maharashtra,Safety,Others,https://Not Applicable,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://Not Applicable
+Call log:
+  - navigating to ""https://Not Applicable"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+671f179de4b0bbf338c3b531,SUSTAINSH BIOSOLUTIONS LLP,DIPP181217,RECOGNISED,ACI-5079,Validation,Nagpur,Maharashtra,Biotechnology,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67128f6ee4b00e6292704aef,SPECTRUM INVENTIVE DESIGNS PRIVATE LIMITED,DIPP180588,RECOGNISED,U18115MH2024PTC433731,Validation,Nagpur,Maharashtra,Textiles & Apparel,Others,https://SPECTRUM INVENTIVE DESIGNS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SPECTRUM INVENTIVE DESIGNS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SPECTRUM INVENTIVE DESIGNS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67128f65e4b00e6292704ad7,ASHISH GREEN ENERGY PRIVATE LIMITED,DIPP180583,RECOGNISED,U35105MH2023PTC401236,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://ASHISH GREEN ENERGY PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ASHISH GREEN ENERGY PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ASHISH GREEN ENERGY PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+67128f4be4b00e6292704aa6,ANAN VIRIYATECH PRIVATE LIMITED,DIPP180573,RECOGNISED,U35105MH2023PTC402390,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://ANAN VIRIYATECH PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ANAN VIRIYATECH PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ANAN VIRIYATECH PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+670cf67be4b0b193604ee6f8,TECHDYNAMICS INNOVATIONS PRIVATE LIMITED,DIPP180071,RECOGNISED,U85490MH2024PTC426444,Validation,Nagpur,Maharashtra,Education,Skill Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6708bf3ee4b0913403d3e5b5,SANVIVIJAY MICROSERVICES ASSOCIATION,DIPP179907,RECOGNISED,U88900MH2024NPL422825,Validation,Nagpur,Maharashtra,Finance Technology,Personal Finance,https://www.sanvivijay.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sanvivijay.com/
+Call log:
+  - navigating to ""https://www.sanvivijay.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66fe812de4b0f06e1bb18ba3,DRRV ADVANCED HEALTH PRIVATE LIMITED,DIPP179228,RECOGNISED,U86904MH2024PTC426110,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://DRRV ADVANCED HEALTH PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://DRRV ADVANCED HEALTH PRIVATE LIMITED
+Call log:
+  - navigating to ""https://DRRV ADVANCED HEALTH PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66fa79b6e4b0f06e1bb05f10,ELITA VENTURES PRIVATE LIMITED,DIPP178932,RECOGNISED,U55101MH2024PTC431311,Prototype,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66f7d9fee4b0e7dee436ac68,ARMISTICE DESTINATIONS PRIVATE LIMITED,DIPP178798,RECOGNISED,U74999MH2022PTC393722,Validation,Nagpur,Maharashtra,Travel & Tourism,Others,https://ARMISTICE DESTINATIONS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ARMISTICE DESTINATIONS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ARMISTICE DESTINATIONS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66f692e7e4b09affe3108a07,ALTERWORKS BIOLABS LLP,DIPP172885,RECOGNISED,ACF-5703,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Biotechnology,https://null,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://null/
+Call log:
+  - navigating to ""https://null/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66e7d889e4b0862aa0d08d31,AARVK INNOVATIVE &amp; TEXTILE INDUSTRIES PRIVATE LIMITED,DIPP177462,RECOGNISED,U14101MH2024PTC431230,Validation,Nagpur,Maharashtra,Textiles & Apparel,Others,https://AARVK INNOVATIVE &amp; TEXTILE INDUSTRIES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://AARVK INNOVATIVE &amp; TEXTILE INDUSTRIES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://AARVK INNOVATIVE &amp; TEXTILE INDUSTRIES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66e5b919e4b0aee6d0f10c39,GAGANTEJ AGRO &amp; ENERGY PRIVATE LIMITED,DIPP177430,RECOGNISED,U10790MH2024PTC430742,Validation,Nagpur,Maharashtra,Renewable Energy,Others,https://GAGANTEJ AGRO &amp; ENERGY PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://GAGANTEJ AGRO &amp; ENERGY PRIVATE LIMITED
+Call log:
+  - navigating to ""https://GAGANTEJ AGRO &amp; ENERGY PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66e42d0ce4b0aee6d0f0b6d3,WAGH DEFENCE PRIVATE LIMITED,DIPP177315,RECOGNISED,U25200MH2024PTC428978,Validation,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Defence Equipment,https://waghdefence.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://waghdefence.com/
+Call log:
+  - navigating to ""https://waghdefence.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66e00d84e4b0554f91179e37,MRO ENGINEERING AND SUPPLIES PRIVATE LIMITED,DIPP176890,RECOGNISED,U74999MH2017PTC290871,EarlyTraction,Nagpur,Maharashtra,Automotive,"Auto, Truck & Motorcycle Parts",https://industrialmro.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://industrialmro.com/
+Call log:
+  - navigating to ""https://industrialmro.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66d84082e4b0da161d5aae6d,QUINTESSENTIAL INFORMATICS SYSTEMS PRIVATE LIMITED,DIPP176365,RECOGNISED,U72900MH2021PTC357591,Validation,Nagpur,Maharashtra,IT Services,Product Development,https://QUINTESSENTIAL INFORMATICS SYSTEMS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://QUINTESSENTIAL INFORMATICS SYSTEMS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://QUINTESSENTIAL INFORMATICS SYSTEMS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66d2bffce4b0da161d592904,A.G.UPASE CIVIL CONSTRUCTION PRIVATE LIMITED,DIPP175944,RECOGNISED,U42900MH2024PTC425210,Validation,Nagpur,Maharashtra,Construction,Others,https://nill,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nill/
+Call log:
+  - navigating to ""https://nill/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66d1c5dbe4b0da161d58ee32,SRIKALAHASTI FOOD PRODUCTS (OPC) PRIVATE LIMITED,DIPP175895,RECOGNISED,U10509MH2024OPC421390,Scaling,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://srikalahastifoodproducts.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://srikalahastifoodproducts.com/
+Call log:
+  - navigating to ""https://srikalahastifoodproducts.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66c9ae6fe4b0da161d570cbe,EIROBAA ELECTRIC VEHICLES PRIVATE LIMITED,DIPP175231,RECOGNISED,U45100MH2024PTC430247,Validation,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://eirobaa.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eirobaa.com/
+Call log:
+  - navigating to ""https://eirobaa.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66c04d84e4b0eebff778f4db,BIOCARE KMK PRIVATE LIMITED,DIPP174569,RECOGNISED,U46209MH2024PTC428619,Validation,Nagpur,Maharashtra,Agriculture,Others,https://www.biocare.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.biocare.com/
+Call log:
+  - navigating to ""https://www.biocare.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+66bc4baae4b0e0a79682ddf1,ALLIOSTAAR TECHUB LLP,DIPP174261,RECOGNISED,AAO-0396,EarlyTraction,Nagpur,Maharashtra,IT Services,Others,https://ALLIOSTAAR TECHUB LLP,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ALLIOSTAAR TECHUB LLP
+Call log:
+  - navigating to ""https://ALLIOSTAAR TECHUB LLP"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66bb52e7e4b0e0a79682bd06,SHLOK REFVAN SERVICES PRIVATE LIMITED,DIPP174224,RECOGNISED,U74994MH2018PTC314840,Scaling,Nagpur,Maharashtra,Transportation & Storage,Others,https://SHLOK REFVAN SERVICES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SHLOK REFVAN SERVICES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SHLOK REFVAN SERVICES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66b86c7ee4b0c2c2d5d2a8c7,IYIYK TOY SOLUTIONS PRIVATE LIMITED,DIPP173995,RECOGNISED,U36999MH2023PTC397851,EarlyTraction,Nagpur,Maharashtra,Toys and Games,Physical Toys and Games,https://www.iyiyktoys.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.iyiyktoys.com/
+Call log:
+  - navigating to ""https://www.iyiyktoys.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66b1fa14e4b0ec4eca35f325,TRIRIK TECHNOLOGY (OPC) PRIVATE LIMITED,DIPP173525,RECOGNISED,U62013MH2023OPC412552,Prototype,Nagpur,Maharashtra,IT Services,Product Development,https://www.tririktechnology.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tririktechnology.com/
+Call log:
+  - navigating to ""https://www.tririktechnology.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66a8e24ce4b07936b471b5e9,KOYABIZZ VENTURES PRIVATE LIMITED,DIPP172946,RECOGNISED,U74999MH2020PTC348857,EarlyTraction,Nagpur,Maharashtra,Waste Management,Others,https://www.koyabizz.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.koyabizz.in/
+Call log:
+  - navigating to ""https://www.koyabizz.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66a87f92e4b07936b4717cbd,NANAK CONSTRUCTION,DIPP173522,RECOGNISED,NGP-13431/2013-14,Validation,Nagpur,Maharashtra,Chemicals,Commodity Chemicals,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66a4c0b2e4b07936b470ea80,HERHUES ADORNMENT LLP,DIPP172693,RECOGNISED,ACH-3480,Validation,Nagpur,Maharashtra,Fashion,Jewellery,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66a33cc1e4b07936b4709965,ICAD PUBLICATIONS PRIVATE LIMITED,DIPP172569,RECOGNISED,U22130MH2021PTC359776,Validation,Nagpur,Maharashtra,Education,Others,https://ICAD PUBLICATIONS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ICAD PUBLICATIONS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ICAD PUBLICATIONS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669e432ee4b07936b46f7444,CENTREXCEL BUSINESS SOLUTIONS PRIVATE LIMITED,DIPP170443,RECOGNISED,U62099PN2024PTC230327,Prototype,Nagpur,Maharashtra,IT Services,Application Development,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669e3adae4b07936b46f6db7,MAHAKAL TRADEHUB PRIVATE LIMITED,DIPP167035,RECOGNISED,U46699MH2023PTC403919,Scaling,Nagpur,Maharashtra,Construction,Construction Materials,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669cc01ee4b07936b46efee7,GOPOOL SERVICES PRIVATE LIMITED,DIPP172170,RECOGNISED,U62012MH2024PTC427908,EarlyTraction,Nagpur,Maharashtra,Travel & Tourism,Experiential Travel,https://gopool.app,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gopool.app/
+Call log:
+  - navigating to ""https://gopool.app/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+669a3deae4b07936b46e64ba,NAG INFOTECHNOLOGIES PRIVATE LIMITED,DIPP172087,RECOGNISED,U62099MH2023PTC409742,Validation,Nagpur,Maharashtra,IT Services,Others,https://NAG INFOTECHNOLOGIES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://NAG INFOTECHNOLOGIES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://NAG INFOTECHNOLOGIES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669683cae4b07936b46d3504,PN POLYALLOY & METAL FINISHER (OPC) PRIVATE LIMITED,DIPP171867,RECOGNISED,U22209MH2024OPC428316,Validation,Nagpur,Maharashtra,Automotive,"Auto, Truck & Motorcycle Parts",https://PN POLYALLOY &amp; METAL FINISHER (OPC) PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://PN POLYALLOY &amp; METAL FINISHER (OPC) PRIVATE LIMITED
+Call log:
+  - navigating to ""https://PN POLYALLOY &amp; METAL FINISHER (OPC) PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669606bce4b07936b46ce841,GEN XCELERATE EVENTS LLP,DIPP171771,RECOGNISED,ACG-9237,Prototype,Nagpur,Maharashtra,Events,Others,https://www.outoftheboxexpo.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.outoftheboxexpo.in/
+Call log:
+  - navigating to ""https://www.outoftheboxexpo.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66935acee4b01cb6e0d00499,STHAYI INNOLUTIONS LLP,DIPP171636,RECOGNISED,ACG-7674,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Medical Devices Biomedical,https://www.sthayi.in(not yet deployed),,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sthayi.in(not yet deployed)
+Call log:
+  - navigating to ""https://www.sthayi.in(not yet deployed)"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+669256d9e4b01cb6e0cfe8c7,GOLSTAR INDUSTRIES PRIVATE LIMITED,DIPP171598,RECOGNISED,U31900MH2022PTC391490,Validation,Nagpur,Maharashtra,Renewable Energy,Manufacture of Electrical Equipment,https://GOLSTAR INDUSTRIES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://GOLSTAR INDUSTRIES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://GOLSTAR INDUSTRIES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+668d538ae4b014c9a9a20575,ANAGHA-AJINKYA INDUSTRIES PRIVATE LIMITED,DIPP171203,RECOGNISED,U27200MH2024PTC427310,Validation,Nagpur,Maharashtra,Renewable Energy,Manufacture of Electrical Equipment,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6687b77ae4b014c9a9a0e9a2,OXXYCAFE BHARAT PRIVATE LIMITED,DIPP170804,RECOGNISED,U96092MH2024PTC424401,EarlyTraction,Nagpur,Maharashtra,Pets & Animals,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+668663dde4b014c9a9a09563,RUDRA TRANSBLUE PRIVATE LIMITED,DIPP170697,RECOGNISED,U52290MH2024PTC420116,Prototype,Nagpur,Maharashtra,Automotive,Others,https://rudratransblue.com/lander,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rudratransblue.com/lander
+Call log:
+  - navigating to ""https://rudratransblue.com/lander"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6684fe7ee4b05ec08d227f00,PAKHMODE PREWORKS INDIA PRIVATE LIMITED,DIPP170552,RECOGNISED,U43900MH2023PTC410779,Prototype,Nagpur,Maharashtra,Construction,Others,https://www.preworks.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.preworks.in/
+Call log:
+  - navigating to ""https://www.preworks.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+667d7c32e4b095452164ffce,TAPI TECHNOSERVES PRIVATE LIMITED,DIPP170056,RECOGNISED,U72900MH2022PTC395763,EarlyTraction,Nagpur,Maharashtra,AI,Others,https://tapitechnoserves.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://tapitechnoserves.in/
+Call log:
+  - navigating to ""https://tapitechnoserves.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+66767993e4b0facc95a653dd,MRPRINT WORLD PRIVATE LIMITED,DIPP169483,RECOGNISED,U18115MH2024PTC422637,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Commercial Printing Services,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66701699e4b0bd5d3c2e602c,SRW WIRES &amp; CABLES PRIVATE LIMITED,DIPP168942,RECOGNISED,U27320MH2023PTC408448,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,http://www.srwwirescables.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.srwwirescables.com/
+Call log:
+  - navigating to ""http://www.srwwirescables.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+666ad162e4b0bd5d3c2d8d35,TASKEASE MULTI SOLUTIONS PRIVATE LIMITED,DIPP168617,RECOGNISED,U46520MH2024PTC423260,Validation,Nagpur,Maharashtra,Security Solutions,Home Security solutions,https://TASKEASE MULTI SOLUTIONS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://TASKEASE MULTI SOLUTIONS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://TASKEASE MULTI SOLUTIONS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66698b63e4b0bd5d3c2d0056,ARCHIS HEALTH CARE PRIVATE LIMITED,DIPP168492,RECOGNISED,U51397MH2022PTC391259,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://ARCHIS HEALTH CARE PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ARCHIS HEALTH CARE PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ARCHIS HEALTH CARE PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6666d0bbe4b0bd5d3c2bdabd,THINKONIC SOFTWARE PRIVATE LIMITED,DIPP168196,RECOGNISED,U74999MH2017PTC295090,Scaling,Nagpur,Maharashtra,IT Services,Application Development,https://THINKONIC SOFTWARE PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://THINKONIC SOFTWARE PRIVATE LIMITED
+Call log:
+  - navigating to ""https://THINKONIC SOFTWARE PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66632d3ce4b0c35880da94b9,PASHAAN TECHNOLOGIES PRIVATE LIMITED,DIPP168019,RECOGNISED,U74999MH2020PTC337557,EarlyTraction,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://www.dreaminnovators.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dreaminnovators.in/
+Call log:
+  - navigating to ""https://www.dreaminnovators.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6661bda5e4b064981a551eb6,AYURAFIT ORGANICS PRIVATE LIMITED,DIPP167865,RECOGNISED,U21001MH2024PTC420829,Validation,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://www.ayurafitorganisc.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ayurafitorganisc.com/
+Call log:
+  - navigating to ""https://www.ayurafitorganisc.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+665963eee4b06e49b59f7dba,SHUBHAM SYNDICATE LLP,DIPP167219,RECOGNISED,AAG-5095,Scaling,Nagpur,Maharashtra,Chemicals,Specialty Chemicals,https://SHUBHAM SYNDICATE LLP,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SHUBHAM SYNDICATE LLP
+Call log:
+  - navigating to ""https://SHUBHAM SYNDICATE LLP"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+664de08de4b0608c0b1731e8,VLGS TECHNOLOGIES PRIVATE LIMITED,DIPP166432,RECOGNISED,U43122PN2024PTC230496,EarlyTraction,Nagpur,Maharashtra,Analytics,Data Science,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6648975ae4b0608c0b166dc5,RAJOLI ADVISORY SERVICES PRIVATE LIMITED,DIPP166047,RECOGNISED,U74999MH2018PTC317214,Scaling,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://NO WEBSITE,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://NO WEBSITE
+Call log:
+  - navigating to ""https://NO WEBSITE"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66477190e4b0608c0b164880,CORPOSENT PHARMACEUTICAL PRIVATE LIMITED,DIPP165962,RECOGNISED,U24239MH2023PTC396691,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://www.corposent.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.corposent.com/
+Call log:
+  - navigating to ""https://www.corposent.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+664349a3e4b08b3dcd0bb125,SIDRTREE AUTOMATION PRIVATE LIMITED,DIPP165618,RECOGNISED,U46593MH2023PTC398262,Scaling,Nagpur,Maharashtra,Chemicals,Others,https://WWW.SIDRTREE.COM,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.sidrtree.com/
+Call log:
+  - navigating to ""https://www.sidrtree.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+6642404de4b02a1359266843,GUT-BUDDY HEALTHCARE SERVICES PRIVATE LIMITED,DIPP165536,RECOGNISED,U46497MH2023PTC407243,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://www.gut-buddy.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.gut-buddy.com/
+Call log:
+  - navigating to ""https://www.gut-buddy.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+66337a6fe4b0cdd2e3dd70d3,SACRET POWER TO-X PRIVATE LIMITED,DIPP164532,RECOGNISED,U40106PN2022PTC208153,Prototype,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://sacretpowertox.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sacretpowertox.com/
+Call log:
+  - navigating to ""https://sacretpowertox.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66279dafe4b0cdd2e3db8de3,VIDYA WAREHOUSING PRIVATE LIMITED,DIPP163641,RECOGNISED,U52109MH2024PTC417868,Validation,Nagpur,Maharashtra,Transportation & Storage,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66238b43e4b0cdd2e3daf70a,SIXTH SENSE HOSPITALITY SERVICES PRIVATELIMITED,DIPP163388,RECOGNISED,U55101MH2024PTC423300,Validation,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://SIXTH SENSE HOSPITALITY SERVICES PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SIXTH SENSE HOSPITALITY SERVICES PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SIXTH SENSE HOSPITALITY SERVICES PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66221248e4b0cdd2e3dab3e5,PROLANCE FUTURE PRIVATE LIMITED,DIPP163280,RECOGNISED,U73200MH2024PTC423350,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://olivedrab-peafowl-884744.hostingersite.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://olivedrab-peafowl-884744.hostingersite.com/
+Call log:
+  - navigating to ""https://olivedrab-peafowl-884744.hostingersite.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+661e4db7e4b0d62d662d3525,DE FAIR HOMES PRIVATE LIMITED,DIPP162909,RECOGNISED,U45309MH2021PTC364282,Scaling,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+66151725e4b04e0505d811c7,UPCYCLE WASTE WISE PRIVATE LIMITED,DIPP162420,RECOGNISED,U22113MH2024PTC421821,Validation,Nagpur,Maharashtra,Automotive,Tires & Rubber Products,https://UPCYCLE WASTE WISE PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://UPCYCLE WASTE WISE PRIVATE LIMITED
+Call log:
+  - navigating to ""https://UPCYCLE WASTE WISE PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65f955fbe4b07fb5e52f4844,SHUBH ADS PRIVATE LIMITED,DIPP160362,RECOGNISED,U28293MH2023PTC402337,Validation,Nagpur,Maharashtra,Renewable Energy,Manufacture of Machinery and Equipment,https://SHUBH ADS PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SHUBH ADS PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SHUBH ADS PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65f18cd2e4b023ec3d7594ad,ENLIGHT ENGINEERING,DIPP161182,RECOGNISED,NG000008806,EarlyTraction,Nagpur,Maharashtra,Biotechnology,Others,https://www.kamwa.co.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kamwa.co.in/
+Call log:
+  - navigating to ""https://www.kamwa.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65e965f4e4b063fe21c6fbb5,ASG MAINTENANCE AND LAWN INNOVATION PRIVATE LIMITED,DIPP159337,RECOGNISED,U81300MH2023PTC401842,Validation,Nagpur,Maharashtra,Agriculture,Horticulture,https://ASG MAINTENANCE AND LAWN INNOVATION PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ASG MAINTENANCE AND LAWN INNOVATION PRIVATE LIMITED
+Call log:
+  - navigating to ""https://ASG MAINTENANCE AND LAWN INNOVATION PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65e6e910e4b063fe21c64e8a,FITROO CLOTHING PRIVATE LIMITED,DIPP160023,RECOGNISED,U14101MH2023PTC401816,Prototype,Nagpur,Maharashtra,Textiles & Apparel,Apparel & Accessories,http://www.fitrooclothing.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fitrooclothing.com/
+Call log:
+  - navigating to ""http://www.fitrooclothing.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65dd7902e4b0f8921ab260d4,BLEND EAT FOODS PRIVATE LIMITED,DIPP158302,RECOGNISED,U10795MH2023PTC407524,Validation,Nagpur,Maharashtra,Chemicals,Agricultural Chemicals,https://blendeatfoods.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://blendeatfoods.com/
+Call log:
+  - navigating to ""https://blendeatfoods.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+65dc7f5fe4b06352cbf09f9e,DASHOFRUIT FOODS PRIVATE LIMITED,DIPP158268,RECOGNISED,U56102MH2023PTC408742,Prototype,Nagpur,Maharashtra,Food & Beverages,Others,http://www.dashofruit.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dashofruit.com/
+Call log:
+  - navigating to ""http://www.dashofruit.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65ccb007e4b0da2d9424e016,VIKRAMADITYA CTL PRIVATE LIMITED,DIPP153857,RECOGNISED,U43299MH2023PTC405641,Validation,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.VIKRAMADITYACTL.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vikramadityactl.com/
+Call log:
+  - navigating to ""https://www.vikramadityactl.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65cb6ce2e4b0da2d942484d0,ENERGY SETU LLP,DIPP152137,RECOGNISED,AAX-1190,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://energysetu.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://energysetu.com/
+Call log:
+  - navigating to ""https://energysetu.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+65ca0842e4b0cdd545780eca,SEVENCRAFT ARTS &amp; CREATIVES PRIVATE LIMITED,DIPP124119,RECOGNISED,U52602MH2019PTC327901,Scaling,Nagpur,Maharashtra,Art & Photography,Others,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65c9b714e4b06b4534b64131,SHARANYA SOLAR PRIVATE LIMITED,DIPP156733,RECOGNISED,U40106MH2020PTC351764,Validation,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://SHARANYA SOLAR PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://SHARANYA SOLAR PRIVATE LIMITED
+Call log:
+  - navigating to ""https://SHARANYA SOLAR PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65bde2c1e4b0411b473ff724,METTA MONK PRIVATE LIMITED,DIPP155908,RECOGNISED,U46512MH2023PTC411436,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://METTA MONK PRIVATE LIMITED,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://METTA MONK PRIVATE LIMITED
+Call log:
+  - navigating to ""https://METTA MONK PRIVATE LIMITED"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65b7e9b3e4b0db6d377f85c6,SHUBHLAXMI MECHATRONICS PRIVATE LIMITED,DIPP155387,RECOGNISED,U29109PN2023PTC219465,Validation,Nagpur,Maharashtra,Technology Hardware,Electronics,https://www.smpl.ind.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smpl.ind.in/
+Call log:
+  - navigating to ""https://www.smpl.ind.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65b0a3d5e4b0dfd7729664cb,NITESH ASSOCIATES PRIVATE LIMITED,DIPP154905,RECOGNISED,U74999MH2022PTC386261,Validation,Nagpur,Maharashtra,Education,Others,https://www.niteshassociatespvtltd.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.niteshassociatespvtltd.com/
+Call log:
+  - navigating to ""https://www.niteshassociatespvtltd.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+659fa0cfe4b07df9a32e2f22,TANWISH INSTITUTE OF HEALTH & WELLNESS PRIVATE LIMITED,DIPP153725,RECOGNISED,U85499MH2023PTC403144,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://institute.tanwishlife.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_CLOSED at https://institute.tanwishlife.com/
+Call log:
+  - navigating to ""https://institute.tanwishlife.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+6579e3c6e4b0846ec6788186,Sharesskills Infotech Private Limited,DIPP158425,RECOGNISED,U72900MH2022PTC388521,Validation,Nagpur,Maharashtra,Enterprise Software,ERP,https://sharesskills.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sharesskills.com/
+Call log:
+  - navigating to ""https://sharesskills.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65743d79e4b0b08e4573de93,DONE MULTISERVICES PRIVATE LIMITED,DIPP151613,RECOGNISED,U90009MH2018PTC306688,Scaling,Nagpur,Maharashtra,Agriculture,Others,https://www.donemultiservicespvtltd.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.donemultiservicespvtltd.com/
+Call log:
+  - navigating to ""https://www.donemultiservicespvtltd.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6572ed21e4b0b08e45738b17,MAGNUS FITNESS PRIVATE LIMITED,DIPP151555,RECOGNISED,U85300MH2021PTC365117,Validation,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://www.magnusfitnesspvtltd.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.magnusfitnesspvtltd.com/
+Call log:
+  - navigating to ""https://www.magnusfitnesspvtltd.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+656d8496e4b0435f68ea2516,CIM MANAGEMENT INDIA PRIVATE LIMITED,DIPP151309,RECOGNISED,U85500MH2023PTC408563,Validation,Nagpur,Maharashtra,Education,Skill Development,https://www.cim-india.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cim-india.com/
+Call log:
+  - navigating to ""https://www.cim-india.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65658a7ae4b0f1bb07750794,PUSHPANCHAL FOUNDATION,DIPP151050,RECOGNISED,U80904MH2021NPL370146,Validation,Nagpur,Maharashtra,Education,Skill Development,https://www.PUSHPANCHAL-FOUNDATION,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pushpanchal-foundation/
+Call log:
+  - navigating to ""https://www.pushpanchal-foundation/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6541099be4b01077699f802e,Green Solutions Pest Control Services,DIPP150414,RECOGNISED,NG000005809,Prototype,Nagpur,Maharashtra,Professional & Commercial Services,Others,https://www.greesolutionspest.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.greesolutionspest.com/
+Call log:
+  - navigating to ""https://www.greesolutionspest.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+653cad60e4b01077699eacbe,Hilux laboratories private limited,DIPP157408,RECOGNISED,U86905MH2023PTC404374,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://www.hiluxlaboratories.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hiluxlaboratories.com/
+Call log:
+  - navigating to ""https://www.hiluxlaboratories.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+652a29fbe4b0af4b35d84981,DIYOO AGRO FARMS INDIA PRIVATE LIMITED,DIPP149255,RECOGNISED,U01611MH2023PTC409826,Prototype,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://diyooagro.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://diyooagro.com/
+Call log:
+  - navigating to ""https://diyooagro.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+65018e4ee4b038ca50544260,GOSPHEL SHIELD LIFE SCIENCES PRIVATE LIMITED,DIPP146133,RECOGNISED,U21001MH2023PTC398184,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://gosphel.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gosphel.com/
+Call log:
+  - navigating to ""https://gosphel.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64f844d0e4b00b8c0d98ee0f,RAPIDBULL FINSERVE SOLUTIONS PRIVATE LIMITED,DIPP146486,RECOGNISED,U66190PN2023PTC223406,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://bankloanbazaar.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bankloanbazaar.in/
+Call log:
+  - navigating to ""https://bankloanbazaar.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64f5c951e4b02bcc4a00dc21,APTEC LEARNINGS PRIVATE LIMITED,DIPP145094,RECOGNISED,U85499MH2023PTC409417,Prototype,Nagpur,Maharashtra,Education,Others,https://www.mindmentors.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mindmentors.in/
+Call log:
+  - navigating to ""https://www.mindmentors.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64c4ee04e4b0c4486e891320,KIPONO TECHNOLOGY PRIVATE LIMITED,DIPP140965,RECOGNISED,U62099MH2023PTC405275,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Professional Information Services,https://www.toptime.club/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.toptime.club/
+Call log:
+  - navigating to ""https://www.toptime.club/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64c0bae8e4b0c4486e8874f5,Planet5E Wellness Pvt Ltd,DIPP140793,RECOGNISED,U69100MH2023PTC406592,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://www.planet5e.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.planet5e.com/
+Call log:
+  - navigating to ""https://www.planet5e.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64ba4b08e4b0c4486e876f84,RAVIKA ORGANIC PRIVATE LIMITED,DIPP139809,RECOGNISED,U01100MH2022PTC393561,Prototype,Nagpur,Maharashtra,Agriculture,Organic Agriculture,http://ravikaorganic.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ravikaorganic.com/
+Call log:
+  - navigating to ""http://ravikaorganic.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64b0c853e4b0ca7b139a71f3,PHARMAREGTECH PRIVATE LIMITED,DIPP139030,RECOGNISED,U74999MH2021PTC355263,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://www.qualitasglobus.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.qualitasglobus.com/
+Call log:
+  - navigating to ""https://www.qualitasglobus.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64ad22b4e4b0ca7b1399d402,212 BILTMORE HOSPITALITY PRIVATE LIMITED,DIPP138778,RECOGNISED,U55209MH2019PTC333604,Scaling,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://212biltmore.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://212biltmore.in/
+Call log:
+  - navigating to ""https://212biltmore.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64a8286be4b06880ba8c7706,DGCT TECHNOLOGY PRIVATE LIMITED,DIPP138510,RECOGNISED,U72900MH2023PTC397425,Prototype,Nagpur,Maharashtra,IT Services,Project Management,https://www.dgcttech.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dgcttech.com/
+Call log:
+  - navigating to ""https://www.dgcttech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64a3b26de4b0a5524e7d0781,SHREE MAHA GOMANTAK FOODS & BEVERAGES PRIVATE LIMITED,DIPP138089,RECOGNISED,U11041MH2023PTC399335,Validation,Nagpur,Maharashtra,Food & Beverages,Others,http://www.smgfoodsnbeverages.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.smgfoodsnbeverages.com/
+Call log:
+  - navigating to ""http://www.smgfoodsnbeverages.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+649ebdd2e4b0a5524e7bb5b5,SHREE LAXMI PHARMA,DIPP140689,RECOGNISED,NG000008445,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://shreelp.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://shreelp.in/
+Call log:
+  - navigating to ""https://shreelp.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+64859fa5e4b0bb8a940a6ad8,ELECRECO PRIVATE LIMITED,DIPP135868,RECOGNISED,U95111MH2023PTC404002,Prototype,Nagpur,Maharashtra,Waste Management,Others,https://www.elecreco.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.elecreco.com/
+Call log:
+  - navigating to ""https://www.elecreco.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64784dd1e4b0d597a031e6ec,DYSMECH COMPETENCY SERVICES PRIVATE LIMITED,DIPP138198,RECOGNISED,U74999MH2017PTC295875,Validation,Nagpur,Maharashtra,IT Services,IT Consulting,https://dysmech.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://dysmech.com/
+Call log:
+  - navigating to ""https://dysmech.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+6474c2fbe4b0d597a030508f,DWELLSTAYS HOSPITALITY PRIVATE LIMITED,DIPP134341,RECOGNISED,U79900MH2023PTC402684,Validation,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://https//dwellStays.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://https//dwellStays.in/
+Call log:
+  - navigating to ""https://https//dwellStays.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6463e33be4b025c671449283,MSPS TRADELINKS LLP,DIPP131575,RECOGNISED,AAW-8319,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://www.mayacure.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mayacure.in/
+Call log:
+  - navigating to ""https://www.mayacure.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+645e3d87e4b025c671432c09,SHADER LABS PRIVATE LIMITED,DIPP134273,RECOGNISED,U85499PN2023PTC220410,EarlyTraction,Nagpur,Maharashtra,Education,Coaching,https://indiagamelab.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://indiagamelab.com/
+Call log:
+  - navigating to ""https://indiagamelab.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+645cc7dae4b0a7a488d03157,VICTOIN MULTISERVICES PRIVATE LIMITED,DIPP132815,RECOGNISED,U74904MH2023PTC400398,Prototype,Nagpur,Maharashtra,Others,Others,https://victoinmultiservices.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://victoinmultiservices.com/
+Call log:
+  - navigating to ""https://victoinmultiservices.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+645b2957e4b0912f1d81fe17,AVSG SOLUTIONS (OPC) PRIVATE LIMITED,DIPP131742,RECOGNISED,U15490MH2022OPC382071,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://www.sitgri.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sitgri.com/
+Call log:
+  - navigating to ""https://www.sitgri.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+644d37bfe4b08c6e5d9ee6ee,SHASHTAV CHARGING BHARAT PRIVATE LIMITED,DIPP136499,RECOGNISED,U27900MH2023PTC401951,Scaling,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://www.blu-e.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.blu-e.in/
+Call log:
+  - navigating to ""https://www.blu-e.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6447fc6be4b0ae03c7510b48,CLIFTON BEVERAGES PRIVATE LIMITED,DIPP131916,RECOGNISED,U47222MH2023PTC401654,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.cliftonbeverages.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cliftonbeverages.com/
+Call log:
+  - navigating to ""https://www.cliftonbeverages.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+642ebacfe4b03b5271295e26,KALAPENTRY DESIGN STUDIO LLP,DIPP128449,RECOGNISED,ABZ-2473,Validation,Nagpur,Maharashtra,Architecture Interior Design,Others,https://www.itsthegaragesale.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.itsthegaragesale.com/
+Call log:
+  - navigating to ""https://www.itsthegaragesale.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+64285363e4b070b7ef2de873,RYEA INDUSTRIES PRIVATE LIMITED,DIPP128180,RECOGNISED,U15400MH2020PTC344567,EarlyTraction,Nagpur,Maharashtra,Agriculture,Others,https://www.ryeaindustries.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ryeaindustries.com/
+Call log:
+  - navigating to ""https://www.ryeaindustries.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6423d1e9e4b070b7ef2c81ec,LBSSOFTECH PRIVATE LIMITED,DIPP127954,RECOGNISED,U72900MH2022PTC395251,EarlyTraction,Nagpur,Maharashtra,IT Services,Web Development,https://websathi.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://websathi.in/
+Call log:
+  - navigating to ""https://websathi.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+641dcdefe4b070b7ef2b2e6f,RIDAYAN CONSTRUCTIONS LLP,DIPP127417,RECOGNISED,ACA-1361,Prototype,Nagpur,Maharashtra,Construction,Construction & Engineering,https://ridayanconstructionsllp.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ridayanconstructionsllp.co.in/
+Call log:
+  - navigating to ""https://ridayanconstructionsllp.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+640c6584e4b05275a6b420e3,CLEANLANE EQUIPMENTS AND SOLUTIONS PRIVATE LIMITED,DIPP133475,RECOGNISED,U29190MH2022PTC395682,Validation,Nagpur,Maharashtra,Waste Management,Others,https://www.cleanlaneequipments.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.cleanlaneequipments.com/
+Call log:
+  - navigating to ""https://www.cleanlaneequipments.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+640c5ba5e4b05275a6b3f8ff,SWAGSTAY PRIVATE LIMITED,DIPP128561,RECOGNISED,U55209MP2020PTC054071,Scaling,Nagpur,Maharashtra,Travel & Tourism,Hospitality,https://swagstay.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://swagstay.com/
+Call log:
+  - navigating to ""https://swagstay.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+640c5917e4b05275a6b3f202,SUVAN DIAMONDS INDIA PRIVATE LIMITED,DIPP127389,RECOGNISED,U36999MH2023PTC397705,Validation,Nagpur,Maharashtra,Fashion,Jewellery,https://www.suvandiamond.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.suvandiamond.com/
+Call log:
+  - navigating to ""https://www.suvandiamond.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63ff28bbe4b07770d05f14ce,URECRUIT PRIVATE LIMITED,DIPP125195,RECOGNISED,U80904MH2022PTC384347,EarlyTraction,Nagpur,Maharashtra,Human Resources,Recruitment Jobs,https://www.urecruit.biz/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.urecruit.biz/
+Call log:
+  - navigating to ""https://www.urecruit.biz/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+63f9bb9ae4b0752eee00cec1,SELF TECH SOLUTIONS PRIVATE LIMITED,DIPP124697,RECOGNISED,U72900MP2019PTC049443,Prototype,Nagpur,Maharashtra,IT Services,Application Development,https://selftech.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://selftech.in/
+Call log:
+  - navigating to ""https://selftech.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+63f4ea80e4b0752eedff9b90,GPAL INTERNATIONAL PRIVATE LIMITED,DIPP124679,RECOGNISED,U51909MH2022PTC394477,Prototype,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://www.gpalinternatinal.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gpalinternatinal.com/
+Call log:
+  - navigating to ""https://www.gpalinternatinal.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63d6bbc3e4b0d237b25730a8,Renoplast India Private Limited,DIPP122154,RECOGNISED,U25209PN2021PTC205384,Validation,Nagpur,Maharashtra,Construction,Construction & Engineering,https://NA,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://na/
+Call log:
+  - navigating to ""https://na/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63d507a0e4b0d237b2570bbc,M K PERUMAL GLOBAL BUSINESS CONSULTANT PRIVATE LIMITED,DIPP129437,RECOGNISED,U74999MH2022PTC390277,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://perucabs.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://perucabs.com/
+Call log:
+  - navigating to ""https://perucabs.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63cbb3abe4b03b5f8b44b0f0,SAVITAR AUTOMOTIVE PRIVATE LIMITED,DIPP132724,RECOGNISED,U50400MH2022PTC375167,Prototype,Nagpur,Maharashtra,Automotive,Auto & Truck Manufacturers,http://bikeecg.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://bikeecg.com/
+Call log:
+  - navigating to ""http://bikeecg.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63c5018be4b0a39b8f000727,AEROVANIA PRIVATE LIMITED,DIPP120102,RECOGNISED,U74999MH2022PTC382122,Prototype,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://N/A,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/A
+Call log:
+  - navigating to ""https://n/A"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+639c4aa9e4b0e7b413afe4ed,Vikramaaditya Vc Private Limited,DIPP118419,RECOGNISED,U85300MH2022PTC391655,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://Vikramaaditya.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vikramaaditya.com/
+Call log:
+  - navigating to ""https://vikramaaditya.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+63863a25e4b0f9d1767d01d4,Matchedmee Enterprises Private Limited,DIPP122048,RECOGNISED,U18101MH2023PTC396877,Prototype,Nagpur,Maharashtra,Fashion,Apparel,http://www.matchedmee.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.matchedmee.com/
+Call log:
+  - navigating to ""http://www.matchedmee.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6379eb67e4b027ddb8e63424,Ingenuitive Private Limited,DIPP122306,RECOGNISED,U31904MH2022PTC395721,Validation,Nagpur,Maharashtra,Technology Hardware,Electronics,https://aac.ingenuitive.cc,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aac.ingenuitive.cc/
+Call log:
+  - navigating to ""https://aac.ingenuitive.cc/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6378a4cfe4b027ddb8e5a742,Founders Innovation Private Limited,DIPP119858,RECOGNISED,U74110MH2021PTC369730,EarlyTraction,Nagpur,Maharashtra,IT Services,Web Development,https://iwearwhoopee.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://iwearwhoopee.com/
+Call log:
+  - navigating to ""https://iwearwhoopee.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+637892a1e4b027ddb8e59816,Mandarin Semiconductors Private Limited,DIPP115461,RECOGNISED,U32109MH2022PTC383145,Validation,Nagpur,Maharashtra,Technology Hardware,Semiconductor,https://www.mandarinsemiconductors.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mandarinsemiconductors.com/
+Call log:
+  - navigating to ""https://www.mandarinsemiconductors.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6374df23e4b07b9d66d9cecf,Pertinent Healthcare Business Solutions Private Limited,DIPP114834,RECOGNISED,U74999MH2020PTC344991,Validation,Nagpur,Maharashtra,IT Services,BPO,http://www.pertinenthbs.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.pertinenthbs.com/
+Call log:
+  - navigating to ""http://www.pertinenthbs.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+636bcd03e4b0561227f0cd63,Medyard Trexim Private Limited,DIPP114256,RECOGNISED,U51909MH2022PTC390389,Prototype,Nagpur,Maharashtra,Marketing,Sales,https://www.medyardtrexim.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.medyardtrexim.com/
+Call log:
+  - navigating to ""https://www.medyardtrexim.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+633c3712e4b0feee6e0b8768,MES-ONS INDIA PRIVATE LIMITED,DIPP144693,RECOGNISED,U28999MH2022PTC385018,Scaling,Nagpur,Maharashtra,Renewable Energy,Manufacture of Electrical Equipment,https://www.mesonswires.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mesonswires.com/
+Call log:
+  - navigating to ""https://www.mesonswires.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62ff0f6ce4b0da9c23ed4f87,Sts360 Support Private Limited,DIPP108628,RECOGNISED,U72900MH2022PTC387852,Scaling,Nagpur,Maharashtra,IT Services,BPO,https://www.STS360 support.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.STS360 support.in
+Call log:
+  - navigating to ""https://www.STS360 support.in"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62f0ec05e4b02524d81a6f2b,Amplecare Remedies Private Limited,DIPP116025,RECOGNISED,U51909PN2021PTC203182,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://www.amplecareremedies.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.amplecareremedies.com/
+Call log:
+  - navigating to ""https://www.amplecareremedies.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62ecd177e4b02524d81921c0,Happico Foods Private Limited,DIPP110085,RECOGNISED,U15400MH2022PTC386840,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.myhappico.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.myhappico.com/
+Call log:
+  - navigating to ""https://www.myhappico.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62ec999be4b02524d81908d4,NENIPRRA PRIVATE LIMITED,DIPP109215,RECOGNISED,U15490MH2022PTC385190,Prototype,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://neniprra.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://neniprra.com/
+Call log:
+  - navigating to ""https://neniprra.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62db8687e4b05e317519ac42,Sonexa Innovations Private Limited,DIPP106460,RECOGNISED,U29308MH2022PTC386863,EarlyTraction,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.galon.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.galon.in/
+Call log:
+  - navigating to ""https://www.galon.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62d82404e4b0840fb6bd6c9c,YUVATRENZ MARKETING PRIVATE LIMITED,DIPP139730,RECOGNISED,U18109MH2021PTC371708,EarlyTraction,Nagpur,Maharashtra,Textiles & Apparel,Apparel & Accessories,https://yuvatm.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://yuvatm.com/
+Call log:
+  - navigating to ""https://yuvatm.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62cc50cbe4b0d06e97b36e7a,Vidharbha Agro Engineering Solutions Private Limited,DIPP106918,RECOGNISED,U29100MH2021PTC354190,Validation,Nagpur,Maharashtra,Agriculture,Others,https://www.yantrashakti.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yantrashakti.in/
+Call log:
+  - navigating to ""https://www.yantrashakti.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62c5c992e4b07b2cdee43e65,VARDHISHNU AGROPRODUCTS PRIVATE LIMITED,DIPP105166,RECOGNISED,U01110MH2022PTC375720,Validation,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://Vardhishnuagro.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vardhishnuagro.in/
+Call log:
+  - navigating to ""https://vardhishnuagro.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62c4137de4b07b2cdee35553,AMA VENTURES LLP,DIPP108737,RECOGNISED,ABB-4907,Prototype,Nagpur,Maharashtra,Automotive,Electric Vehicles,https://lightningz.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lightningz.in/
+Call log:
+  - navigating to ""https://lightningz.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62bff0d3e4b07b2cdee09942,Yorever Technovations Private Limited,DIPP121297,RECOGNISED,U52100MH2022PTC385874,Validation,Nagpur,Maharashtra,Chemicals,Others,https://yorever.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://yorever.com/
+Call log:
+  - navigating to ""https://yorever.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62a30160e4b0520246bf7176,Flying Hippo Media Private Limited,DIPP116371,RECOGNISED,U74999MH2020PTC344338,EarlyTraction,Nagpur,Maharashtra,Advertising,Others,https://www.flyinghippomedia.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.flyinghippomedia.com/
+Call log:
+  - navigating to ""https://www.flyinghippomedia.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+62909a84e4b028cbac15e8c3,JIVTODE E-RETAIL TRADE (OPC) PRIVATE LIMITED,DIPP102563,RECOGNISED,U51909MH2021OPC356676,Prototype,Nagpur,Maharashtra,Retail,Retail Technology,https://www.buyosooth.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.buyosooth.in/
+Call log:
+  - navigating to ""https://www.buyosooth.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+628f3a3fe4b028cbac156050,SAFFONA HEALTHCARE PRIVATE LIMITED,DIPP124549,RECOGNISED,U85100MH2022PTC379535,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,http://www.saffonaphysiotherapy.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.saffonaphysiotherapy.in/
+Call log:
+  - navigating to ""http://www.saffonaphysiotherapy.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+628483f5e4b028cbac11df7e,MIG-24 HEALTHCARE PRIVATE LIMITED,DIPP101532,RECOGNISED,U85300MH2021PTC374232,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://mig-24healthcare.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mig-24healthcare.com/
+Call log:
+  - navigating to ""https://mig-24healthcare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62737db8e4b028cbac0c515f,KAYA LAWATRE IMPEX PRIVATE LIMITED,DIPP100715,RECOGNISED,U51909MH2021PTC360569,EarlyTraction,Nagpur,Maharashtra,Indic Language Startups,E-Commerce,https://www.kayastore.co.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kayastore.co.in/
+Call log:
+  - navigating to ""https://www.kayastore.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+627279c4e4b028cbac0c2259,VASTUWISHWAS (OPC) PRIVATE LIMITED,DIPP101740,RECOGNISED,U70109MH2022OPC381108,Prototype,Nagpur,Maharashtra,Real Estate,Housing,https://www.vastuwishwas.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vastuwishwas.com/
+Call log:
+  - navigating to ""https://www.vastuwishwas.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+625678d1e4b00f07df34aae0,NATRAJ BEVERAGES AND FOODS PRIVATE LIMITED,DIPP109478,RECOGNISED,U15549MH2021PTC370584,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://NATRAJINDIA.IN,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://natrajindia.in/
+Call log:
+  - navigating to ""https://natrajindia.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6242fb68e4b0e4f8d277a395,TRIBUGS IN PRIVATE LIMITED,DIPP99711,RECOGNISED,U72900MH2021PTC369966,EarlyTraction,Nagpur,Maharashtra,IT Services,Web Development,https://www.tribugs.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tribugs.com/
+Call log:
+  - navigating to ""https://www.tribugs.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6235896ee4b0e4f8d273b000,SmartHire Consultant Private Limited,DIPP108487,RECOGNISED,U93090MH2022PTC375619,Prototype,Nagpur,Maharashtra,Human Resources,Others,http://smarthire.info/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://smarthire.info/
+Call log:
+  - navigating to ""http://smarthire.info/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+622efc5fe4b0e4f8d27164bf,PAW&TAILS SOLUTIONS PRIVATE LIMITED,DIPP138924,RECOGNISED,U52209MH2022PTC374888,EarlyTraction,Nagpur,Maharashtra,Pets & Animals,Others,https://www.dobbythechef.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dobbythechef.com/
+Call log:
+  - navigating to ""https://www.dobbythechef.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6222f0c5e4b0e4f8d26d9b4d,ORANGELEAF SERVICES PRIVATE LIMITED,DIPP97388,RECOGNISED,U74999MH2018PTC306575,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://www.nriway.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.nriway.com/
+Call log:
+  - navigating to ""https://www.nriway.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+620df3b5e4b0e4f8d2665a60,KRUSHNARPAN COMMERCIALS PRIVATE LIMITED,DIPP95277,RECOGNISED,U45309MH2021PTC370369,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Supplies,https://www.kcplnagpur.com/#,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kcplnagpur.com/#
+Call log:
+  - navigating to ""https://www.kcplnagpur.com/#"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62050406e4b0e4f8d262aa97,Godbole (G) Naturals And Dairy Farms Llp,DIPP123530,RECOGNISED,AAV-3779,EarlyTraction,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.gnaturals.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gnaturals.in/
+Call log:
+  - navigating to ""https://www.gnaturals.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62037567e4b0e4f8d261f3d0,RITESHRI UDYOG PRIVATE LIMITED,DIPP98285,RECOGNISED,U51909MH2020PTC343819,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://riteshriudyog.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://riteshriudyog.com/
+Call log:
+  - navigating to ""https://riteshriudyog.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+62036338e4b0e4f8d261eb7a,SONI PAINTS PRIVATE LIMITED,DIPP94702,RECOGNISED,U24222MH2020PTC338852,Validation,Nagpur,Maharashtra,Construction,Construction Materials,https://goodwillpaint.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodwillpaint.com/
+Call log:
+  - navigating to ""https://goodwillpaint.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6200bc0ae4b0e4f8d26130c0,DUSKLINE INFRASTRUCTURES PRIVATE LIMITED,DIPP97219,RECOGNISED,U74999MH2015PTC263532,Scaling,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.duskline.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.duskline.in/
+Call log:
+  - navigating to ""https://www.duskline.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+61fb6558e4b00f5d174b3dbf,ADITHYAPOWER PRIVATE LIMITED,DIPP94752,RECOGNISED,U51900MH2016PTC286220,Scaling,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.adithyapower.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.adithyapower.in/
+Call log:
+  - navigating to ""https://www.adithyapower.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+61fa7957e4b00f5d174af5f5,SCRIPTANGLE PRIVATE LIMITED,DIPP95133,RECOGNISED,U72900MH2021PTC371621,Prototype,Nagpur,Maharashtra,IT Services,Web Development,https://script-angle.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://script-angle.com/
+Call log:
+  - navigating to ""https://script-angle.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61f78e4fe4b0bc85704310b8,NAVYONI TECHNOLOGIES PRIVATE LIMITED,DIPP94691,RECOGNISED,U74999MH2021PTC372408,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.navyoni.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.navyoni.com/
+Call log:
+  - navigating to ""https://www.navyoni.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61f6a9e9e4b0bc857042b972,UFF FOODS PRIVATE LIMITED,DIPP94210,RECOGNISED,U74999MH2020PTC337971,Validation,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://www.uff-india.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.uff-india.com/
+Call log:
+  - navigating to ""https://www.uff-india.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61f13a73e4b020b2f88a6ac4,AFIFA CARE PRIVATE LIMITED,DIPP96878,RECOGNISED,U85120MH2021PTC370427,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://www.afifacare.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.afifacare.com/
+Call log:
+  - navigating to ""https://www.afifacare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61e04da4e4b020b2f8831689,KESHVAM INFRASOFT LLP,DIPP92923,RECOGNISED,AAZ-6790,Prototype,Nagpur,Maharashtra,IT Services,Project Management,http://www.keshavaminfrasoft.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.keshavaminfrasoft.com/
+Call log:
+  - navigating to ""http://www.keshavaminfrasoft.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61e004f2e4b020b2f882fdde,KSHITIJ TELEMEDIA NETWORKS PRIVATE LIMITED,DIPP92958,RECOGNISED,U64200MH2021PTC373439,Validation,Nagpur,Maharashtra,Telecommunication & Networking,Integrated communication services,https://www.kshitijnetworks.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kshitijnetworks.com/
+Call log:
+  - navigating to ""https://www.kshitijnetworks.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61d925d1e4b020b2f8805dad,CC PRECAST SOLUTIONS PRIVATE LIMITED,DIPP95169,RECOGNISED,U45203MH2021PTC372963,EarlyTraction,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://www.ccprecastsolutions.con,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ccprecastsolutions.con/
+Call log:
+  - navigating to ""https://www.ccprecastsolutions.con/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61c6d907e4b041b4edd51037,AARMART ECOMMERCE LLP,DIPP92070,RECOGNISED,AAG-0021,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,https://www.aarmart.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.aarmart.com/
+Call log:
+  - navigating to ""https://www.aarmart.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+61c03489e4b041b4edd31464,BILLEX PRIVATE LIMITED,DIPP99930,RECOGNISED,U74999MH2022PTC380837,Validation,Nagpur,Maharashtra,Finance Technology,Billing and Invoicing,https://billexinsights.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://billexinsights.com/
+Call log:
+  - navigating to ""https://billexinsights.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61b2e990e4b0b13f63e64b52,INFO ENERGY LLP,DIPP91649,RECOGNISED,AAX-2164,Validation,Nagpur,Maharashtra,Safety,Others,https://www.infoenergy.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.infoenergy.in/
+Call log:
+  - navigating to ""https://www.infoenergy.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+61a49f57e4b0cb4c4c11d621,KWIKZIP E-COMMERCE SERVICES PRIVATE LIMITED,DIPP90443,RECOGNISED,U63030MH2021PTC369145,Validation,Nagpur,Maharashtra,AI,Machine Learning,https://kwikcommerce.io//,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kwikcommerce.io//
+Call log:
+  - navigating to ""https://kwikcommerce.io//"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61a22adde4b0cb4c4c114bb8,STAFFEX CORPORATION PRIVATE LIMITED,DIPP92948,RECOGNISED,U74999MH2021PTC371609,Prototype,Nagpur,Maharashtra,Human Resources,Recruitment Jobs,https://www.staffex.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.staffex.in/
+Call log:
+  - navigating to ""https://www.staffex.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+617fda1be4b0cb4c4c06a3e8,ALTIOR HEALTHCARE (OPC) PRIVATE LIMITED,DIPP90309,RECOGNISED,U33119MH2021OPC368207,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Others,https://www.sakshamlimbs.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sakshamlimbs.com/
+Call log:
+  - navigating to ""https://www.sakshamlimbs.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+617bb3d6e4b0cb4c4c05d68d,INDUSFUEL ENERGY INDIA PRIVATE LIMITED,DIPP89096,RECOGNISED,U50500MH2021PTC366619,Prototype,Nagpur,Maharashtra,Non- Renewable Energy,Oil Related Services and Equipment,https://www.indusfuelenergy.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.indusfuelenergy.com/
+Call log:
+  - navigating to ""https://www.indusfuelenergy.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61793e67e4b0cb4c4c050599,CHOIRA MUSICTECH PRIVATE LIMITED,DIPP93888,RECOGNISED,U92419MH2021PTC368370,Prototype,Nagpur,Maharashtra,IT Services,Web Development,https://www.choira.io,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.choira.io/
+Call log:
+  - navigating to ""https://www.choira.io/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+61615fffe4b07efc0a4d722c,GAGS INDIA PRIVATE LIMITED,DIPP89865,RECOGNISED,U74999MH2021PTC368867,Scaling,Nagpur,Maharashtra,Others,Others,http://www.gags9.in/app/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gags9.in/app/
+Call log:
+  - navigating to ""http://www.gags9.in/app/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+615c982fe4b08fb41b685967,COSMIC LIVING (OPC) PRIVATE LIMITED,DIPP103275,RECOGNISED,U24299PN2021OPC203620,Prototype,Nagpur,Maharashtra,Retail,Others,https://www.rawandessentials.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rawandessentials.com/
+Call log:
+  - navigating to ""https://www.rawandessentials.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6151a1e4e4b05667f1175a1f,HUMEN EDUTECH LLP,DIPP87827,RECOGNISED,AAY-0739,EarlyTraction,Nagpur,Maharashtra,Education,Skill Development,https://www.humen.us,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.humen.us/
+Call log:
+  - navigating to ""https://www.humen.us/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+61359e31e4b0f62f930c449c,JAYSIS GREEN ENERGY INFRA PRIVATE LIMITED,DIPP89829,RECOGNISED,U40106MH2021PTC362931,Scaling,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://jaysis.ai/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jaysis.ai/
+Call log:
+  - navigating to ""https://jaysis.ai/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6128cddbe4b0f62f92fca71d,THIRTY MORE CHRONICLE PRIVATE LIMITED,DIPP95383,RECOGNISED,U74999MH2021PTC366341,EarlyTraction,Nagpur,Maharashtra,Social Network,Others,https://Fostrreads.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fostrreads.com/
+Call log:
+  - navigating to ""https://fostrreads.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+611e1290e4b0aee5cebab396,FIDROO CORPORATIONS PRIVATE LIMITED,DIPP86771,RECOGNISED,U55101MH2021PTC365854,Prototype,Nagpur,Maharashtra,Food & Beverages,Food Technology/Food Delivery,https://www.fidroo.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fidroo.com/
+Call log:
+  - navigating to ""https://www.fidroo.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61175323e4b0aee5ceb61974,PAYIFY TECHNOLOGIES PRIVATE LIMITED,DIPP85277,RECOGNISED,U72900MH2021PTC364491,Validation,Nagpur,Maharashtra,Finance Technology,Personal Finance,https://www.payify.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.payify.in/
+Call log:
+  - navigating to ""https://www.payify.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+61126aeae4b0aee5ceb2ac8f,MAXTRACT ENGINEERS PRIVATE LIMITED,DIPP86450,RECOGNISED,U74999MH2017PTC292952,Scaling,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.maxtract.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.maxtract.in/
+Call log:
+  - navigating to ""https://www.maxtract.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60e3aae5e4b0a8de6fd7b8ac,VEE VIRTUAL FARMS PRIVATE LIMITED,DIPP83384,RECOGNISED,U70109MH2021PTC363013,Validation,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://www.virtualfarmapp.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.virtualfarmapp.com/
+Call log:
+  - navigating to ""https://www.virtualfarmapp.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60dff71ce4b0a8de6fd6c932,Medicamentaid Private Limited,DIPP111144,RECOGNISED,U52520MH2021PTC359482,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Pharmaceutical,https://medicamentaid.Com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://medicamentaid.com/
+Call log:
+  - navigating to ""https://medicamentaid.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b11126ee4b03c10743a8f8e,SOMEBUDDY TECHNOLOGIES LLP,DIPP81895,RECOGNISED,AAJ-8105,Validation,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://kreativbricks.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kreativbricks.com/
+Call log:
+  - navigating to ""https://kreativbricks.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60c989bee4b01e72abcf5fa4,INTELLERO TECHNOLOGY AND MANAGEMENT SOLUTIONS PRIVATE LIMITED,DIPP84845,RECOGNISED,U72900MH2021PTC359304,EarlyTraction,Nagpur,Maharashtra,IT Services,IT Management,https://htp://intellero.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://htp//intellero.com/
+Call log:
+  - navigating to ""https://htp//intellero.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60c8378fe4b027c65da238ec,GOLDENVOWS SERVICES PRIVATE LIMITED,DIPP91515,RECOGNISED,U92490MH2021PTC355329,Validation,Nagpur,Maharashtra,Events,Others,https://www.goldenvows.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goldenvows.com/
+Call log:
+  - navigating to ""https://www.goldenvows.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60bf3fd8e4b027c65d9c14b1,ARVIND TECHNO EQUIPMENTS,DIPP94724,RECOGNISED,NG000006603,Prototype,Nagpur,Maharashtra,Education,Education Technology,http://www.arvindtech.net,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.arvindtech.net/
+Call log:
+  - navigating to ""http://www.arvindtech.net/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60be305ee4b027c65d9b02d0,MODCAVE SHELTER TECH PRIVATE LIMITED,DIPP81275,RECOGNISED,U45200MH2021PTC354523,Validation,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://modcave.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://modcave.in/
+Call log:
+  - navigating to ""https://modcave.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60b4c2c9e4b003351f32cf2f,ACREDIT TECHNOLOGY PRIVATE LIMITED,DIPP94267,RECOGNISED,U72200MH2019PTC327249,Validation,Nagpur,Maharashtra,Finance Technology,Accounting,https://www.tezbooks.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tezbooks.com/
+Call log:
+  - navigating to ""https://www.tezbooks.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60a9f10fe4b0e73e1e61d199,AVADHOOT URJA ABHIYAN LLP,DIPP81004,RECOGNISED,AAI-5280,Scaling,Nagpur,Maharashtra,Renewable Energy,Manufacture of Electrical Equipment,https://www.aua-l.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aua-l.com/
+Call log:
+  - navigating to ""https://www.aua-l.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+609bbd13e4b04486ed6ed2ab,BATBIRD TECHNOLOGY SERVICES PRIVATE LIMITED,DIPP80207,RECOGNISED,U72900MH2021PTC357214,Validation,Nagpur,Maharashtra,IT Services,Application Development,http://Batbird.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://batbird.in/
+Call log:
+  - navigating to ""http://batbird.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60851f85e4b0d2ddc90bf75e,BONDRE GREEN ENERGY PRIVATE LIMITED INDIA,DIPP80652,RECOGNISED,U40106PN2021PTC200448,Prototype,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,https://www.bondregroups.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bondregroups.com/
+Call log:
+  - navigating to ""https://www.bondregroups.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60797fabe4b0d2ddc907e908,DIASPORA INNOVATIONS PRIVATE LIMITED,DIPP81318,RECOGNISED,U80100MH2019PTC332271,EarlyTraction,Nagpur,Maharashtra,Education,Education Technology,https://www.therightgate.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.therightgate.com/
+Call log:
+  - navigating to ""https://www.therightgate.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60767796e4b0d2ddc906831d,DATALYTICS TECHNOLOGIES PRIVATE LIMITED,DIPP78678,RECOGNISED,U72900MH2020PTC347137,Validation,Nagpur,Maharashtra,Analytics,Business Intelligence,https://www.datalytics.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.datalytics.co.in/
+Call log:
+  - navigating to ""https://www.datalytics.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60740a52e4b0d2ddc9053ede,GOBASKET AGROTECH PRIVATE LIMITED,DIPP78462,RECOGNISED,U01110MH2021PTC355864,Scaling,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://gobasket.org,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gobasket.org/
+Call log:
+  - navigating to ""https://gobasket.org/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+606820d4e4b03f92cbd3c145,EVEN HEALTHCARE PRIVATE LIMITED,DIPP78019,RECOGNISED,U85300MH2020PTC345050,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://www.evenhealthcare.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.evenhealthcare.com/
+Call log:
+  - navigating to ""https://www.evenhealthcare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+606196dde4b03f92cbd07b01,ADWARB LOGISTICS SERVICES (OPC) PRIVATE LIMITED,DIPP92657,RECOGNISED,U60300MH2018OPC318344,Validation,Nagpur,Maharashtra,Transportation & Storage,Freight & Logistics Services,https://aachalgroup.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aachalgroup.co.in/
+Call log:
+  - navigating to ""https://aachalgroup.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+602e78dae4b017a8daec865b,Saur Neer Technologies,DIPP75616,RECOGNISED,NG000006411,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.saurneer.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.saurneer.in/
+Call log:
+  - navigating to ""https://www.saurneer.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+602795c1e4b07bc22e783697,SAI BIOSYSTEMS PRIVATE LIMITED,DIPP76374,RECOGNISED,U74999MH2015PTC269925,Scaling,Nagpur,Maharashtra,Biotechnology,Others,https://www.saibiosystems.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.saibiosystems.com/
+Call log:
+  - navigating to ""https://www.saibiosystems.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6023e2f8e4b07bc22e76c563,CLIDE MANAGEMENT CONSULTANCY PRIVATE LIMITED,DIPP75591,RECOGNISED,U74999MH2012PTC229470,Validation,Nagpur,Maharashtra,Safety,Others,https://clideg.clideoffice.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://clideg.clideoffice.com/
+Call log:
+  - navigating to ""https://clideg.clideoffice.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+600bd9dce4b06d1acbcb3e2b,MOTORODI AUTOMOBILE SERVICES PRIVATE LIMITED,DIPP74361,RECOGNISED,U50100MH2016PTC288952,EarlyTraction,Nagpur,Maharashtra,Automotive,Others,https://www.motorodi.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.motorodi.com/
+Call log:
+  - navigating to ""https://www.motorodi.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+600a9f3be4b0c081f74bd44c,WAGEV ELECTRIC VEHICLES MANUFACTURING PRIVATE LIMITED,DIPP73905,RECOGNISED,U34300MH2020PTC347772,Prototype,Nagpur,Maharashtra,Automotive,Others,https://wag-ev.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wag-ev.com/
+Call log:
+  - navigating to ""https://wag-ev.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+600a8769e4b0c081f74bc7e7,OCRE8 TECHNOLOGIES PRIVATE LIMITED ,DIPP75887,RECOGNISED,U74999MH2020PTC352437,Prototype,Nagpur,Maharashtra,Social Network,Others,https://www.ocre8technologies.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ocre8technologies.com/
+Call log:
+  - navigating to ""https://www.ocre8technologies.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6007e561e4b0c081f74a9b81,CESMEC PRIVATE LIMITED,DIPP73701,RECOGNISED,U45309MH2016PTC284547,Prototype,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://www.cesmecindia.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cesmecindia.com/
+Call log:
+  - navigating to ""https://www.cesmecindia.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+6007d9a4e4b0c081f74a975f,NEXT TRACK ENGINEERING PRIVATE LIMITED,DIPP74034,RECOGNISED,U74994MH2018PTC318408,Prototype,Nagpur,Maharashtra,Others,Others,https://nextrack.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nextrack.in/
+Call log:
+  - navigating to ""https://nextrack.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+6007bd31e4b0c081f74a8d92,DIAGNO ON MEDICAL &amp; DIAGNOSTICS SERVICESINDIA PRIVATE LIMITED,DIPP73711,RECOGNISED,U85100PN2020PTC192637,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Technology,https://www.diagnoon.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.diagnoon.com/
+Call log:
+  - navigating to ""https://www.diagnoon.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+60045f0be4b0c081f7499b8a,NATTY & CANNY PRIVATE LIMITED,DIPP77914,RECOGNISED,U17110MH2020PTC343497,EarlyTraction,Nagpur,Maharashtra,Retail,Retail Technology,https://www.walkingwardrobe.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.walkingwardrobe.in/
+Call log:
+  - navigating to ""https://www.walkingwardrobe.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ff2e370e4b072ce6640bcea,BIOS INNOVATIVE HEALTHCARE SOLUTIONS PRIVATE LIMITED,DIPP73002,RECOGNISED,U72501MH2019PTC320086,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Others,http://biosinnovations.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://biosinnovations.com/
+Call log:
+  - navigating to ""http://biosinnovations.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fe8cb30e4b0db7e4f388358,WEREHAB TECHNOLOGIES PRIVATE LIMITED,DIPP77623,RECOGNISED,U85300MH2020PTC351417,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://www.werehabtech.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.werehabtech.com/
+Call log:
+  - navigating to ""https://www.werehabtech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fe350c9e4b0db7e4f369c6e,DDAARC PICKUP SERVICES PRIVATE LIMITED,DIPP89366,RECOGNISED,U64203MH2021PTC362366,Prototype,Nagpur,Maharashtra,Logistics,Others,https://www.apoux.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.apoux.com/
+Call log:
+  - navigating to ""https://www.apoux.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fe18b0ee4b0db7e4f35cfaa,Radium Technologies,DIPP72493,RECOGNISED,NG000006190,Prototype,Nagpur,Maharashtra,Technology Hardware,Electronics,https://www.radiumtechnologies.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.radiumtechnologies.in/
+Call log:
+  - navigating to ""https://www.radiumtechnologies.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fc1de15e4b016b44cb3de01,GoBasket Agrotech Private Limited,DIPP78462,RECOGNISED,,Scaling,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://gobasket.org,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gobasket.org/
+Call log:
+  - navigating to ""https://gobasket.org/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fbe1f81e4b016b44cb2aae4,Oyster Technocon,DIPP113091,RECOGNISED,27AAHFO1666K1ZW,Validation,Nagpur,Maharashtra,Agriculture,Food Processing,https://oystertechnocon.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://oystertechnocon.com/
+Call log:
+  - navigating to ""https://oystertechnocon.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fb8bac0e4b0dca0779d0c9c,PRECISURG PRIVATE LIMITED,DIPP71450,RECOGNISED,U33119PN2019PTC185636,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Biotechnology,https://precisurg.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://precisurg.co.in/
+Call log:
+  - navigating to ""https://precisurg.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5fb29bd8e4b01f96edfb30dd,Movench,DIPP71419,RECOGNISED,U74999MH2020PTC350165,EarlyTraction,Nagpur,Maharashtra,Human Resources,Talent Management,https://www.movench.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.movench.com/
+Call log:
+  - navigating to ""https://www.movench.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f9690b1e4b073af970419b9,SHAKTIMAAN SOLAR LLP,DIPP70809,RECOGNISED,AAT-2533,Scaling,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://www.shaktimaansolar.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shaktimaansolar.com/
+Call log:
+  - navigating to ""https://www.shaktimaansolar.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f7ef2bfe4b0cbc0da807afa,TNB FOODS PRIVATE LIMITED,DIPP69853,RECOGNISED,U51909MH2020PTC347034,Validation,Nagpur,Maharashtra,Other Specialty Retailers,Home Improvement Products & Services Retailers,https://www.thenaturesbowl.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thenaturesbowl.com/
+Call log:
+  - navigating to ""https://www.thenaturesbowl.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f72daf8e4b0cbc0da7e0a98,YOUBOTICS INNOVATIONS PRIVATE LIMITED,DIPP69114,RECOGNISED,U72900MH2020PTC345875,EarlyTraction,Nagpur,Maharashtra,AI,NLP,https://www.youbotics.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.youbotics.in/
+Call log:
+  - navigating to ""https://www.youbotics.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f6dd7d0e4b063729925e487,GIRLSCRIPT TECHNOLOGIES PRIVATE LIMITED,DIPP68833,RECOGNISED,U80900PN2020PTC191349,EarlyTraction,Nagpur,Maharashtra,Education,E-learning,https://gsyay.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gsyay.com/
+Call log:
+  - navigating to ""https://gsyay.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f6d8e3fe4b063729925bc71,RIDDHIMANN TECHNOLOGIES PRIVATE LIMITED,DIPP68793,RECOGNISED,U93000MH2020PTC341386,Validation,Nagpur,Maharashtra,Fashion,Jewellery,https://mysoniji.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mysoniji.com/
+Call log:
+  - navigating to ""https://mysoniji.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f6af778e4b063729925337c,MEGA PETROLEUMS LLP,DIPP68621,RECOGNISED,AAT-6934,Prototype,Nagpur,Maharashtra,Non- Renewable Energy,Oil & Gas Transportation Services,http://megapetroleums.in.net/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://megapetroleums.in.net/
+Call log:
+  - navigating to ""http://megapetroleums.in.net/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f5c7f41e4b094dd1b664d8c,UCOB100 BIOENERGY PRIVATE LIMITED,DIPP67782,RECOGNISED,U24111MH2020PTC337311,EarlyTraction,Nagpur,Maharashtra,Renewable Energy,Renewable Energy Solutions,http://ucob100.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ucob100.com/
+Call log:
+  - navigating to ""http://ucob100.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f378719e4b0b0f1fd25a1dc,AMPHAN TECHNOLOGIES PRIVATE LIMITED,DIPP65700,RECOGNISED,U01100MH2020PTC343292,Scaling,Nagpur,Maharashtra,Agriculture,Agri-Tech,http://neovantium.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://neovantium.com/
+Call log:
+  - navigating to ""http://neovantium.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f117719e4b08a4759a57da0,SAZO MANAGEMENT PRIVATE LIMITED,DIPP63754,RECOGNISED,U74900PN2020PTC191402,EarlyTraction,Nagpur,Maharashtra,Human Resources,Skills Assessment,http://www.sazompl.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.sazompl.in/
+Call log:
+  - navigating to ""http://www.sazompl.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5f0094e2e4b022bc24f9d2f8,XPRENZA ROBOTICS PRIVATE LIMITED,DIPP62963,RECOGNISED,U72200MH2020PTC340706,Prototype,Nagpur,Maharashtra,Robotics,Robotics Application,https://www.xprenza.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xprenza.com/
+Call log:
+  - navigating to ""https://www.xprenza.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5eef704be4b0935c8cebfcac,BRAINIEST DIGITAL PLATFORM PRIVATE LIMITED,DIPP62204,RECOGNISED,U72900MH2020PTC340358,Prototype,Nagpur,Maharashtra,Education,E-learning,https://www.brainyguru.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.brainyguru.in/
+Call log:
+  - navigating to ""https://www.brainyguru.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ed5033be4b054cc0b12de03,FALCONEX SHIPPING AND LOGISTIX SOLUTIONS LLP,DIPP74800,RECOGNISED,AAV-2500,Scaling,Nagpur,Maharashtra,Logistics,Others,https://www.falconexlogistix.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.falconexlogistix.com/
+Call log:
+  - navigating to ""https://www.falconexlogistix.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5ec79036e4b03e7099593836,SAMVARU TECHNOSOL LLP,DIPP66317,RECOGNISED,AAP-6904,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare IT,https://www.quotemysurgery.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.quotemysurgery.com/
+Call log:
+  - navigating to ""https://www.quotemysurgery.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ec00b7ae4b072672dd90446,ADITI GREENTECH INDIA PRIVATE LIMITED,DIPP60376,RECOGNISED,U29309MH2020PTC337380,Prototype,Nagpur,Maharashtra,Agriculture,Food Processing,https://www.adititech.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.adititech.in/
+Call log:
+  - navigating to ""https://www.adititech.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ebe9f97e4b092c4326099b3,DHRUV DAGA PROFESSIONAL LEARNING PRIVATELIMITED,DIPP60345,RECOGNISED,U80902MH2019PTC333657,EarlyTraction,Nagpur,Maharashtra,Education,E-learning,https://www.dhruvdaga.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dhruvdaga.in/
+Call log:
+  - navigating to ""https://www.dhruvdaga.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e9c5c20e4b0363cb632cdc9,ALORB TECHNOLOGIES PRIVATE LIMITED,DIPP59008,RECOGNISED,U72200MH2017PTC295246,Validation,Nagpur,Maharashtra,Internet of Things,Smart Home,https://Www.alorbtech.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.alorbtech.com/
+Call log:
+  - navigating to ""https://www.alorbtech.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5e954b47e4b0363cb6319962,DHARKAR ONLINE SERVICES (OPC) PRIVATE LIMITED,DIPP58690,RECOGNISED,U74994MH2018OPC312482,Validation,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://www.tomatino.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tomatino.in/
+Call log:
+  - navigating to ""https://www.tomatino.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e91465ce4b0363cb6312211,BEETROOT AGRO (OPC) PRIVATE LIMITED,DIPP60696,RECOGNISED,U01100MH2019OPC331096,Prototype,Nagpur,Maharashtra,Marketing,Sales,http://www.beetrootagro.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.beetrootagro.com/
+Call log:
+  - navigating to ""http://www.beetrootagro.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e908bb4e4b0363cb6311d0a,TULJAI LABPOINT PRIVATE LIMITED,DIPP58566,RECOGNISED,U74999PN2017PTC171045,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Medical Devices Biomedical,https://tuljaihealthcare.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tuljaihealthcare.com/
+Call log:
+  - navigating to ""https://tuljaihealthcare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e89f4a8e4b055bfaeaafa54,EUTRONIX TECHNOLOGIES PRIVATE LIMITED,DIPP58288,RECOGNISED,U74999MH2018PTC306906,Prototype,Nagpur,Maharashtra,Internet of Things,Manufacturing & Warehouse,https://www.eutronix.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eutronix.in/
+Call log:
+  - navigating to ""https://www.eutronix.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e6f456ae4b0bf8415d24332,TITANDLT IT SOLUTIONS PRIVATE LIMITED,DIPP57175,RECOGNISED,U72900MH2019PTC330518,Validation,Nagpur,Maharashtra,IT Services,Product Development,https://www.titandlt.co,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.titandlt.co/
+Call log:
+  - navigating to ""https://www.titandlt.co/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e675014e4b0bf8415d1c9fc,SHOONYATVAM FOUNDATION,DIPP142530,RECOGNISED,U85300MH2022NPL378741,Validation,Nagpur,Maharashtra,Social Impact,NGO,https://www.shoonyatvam.org,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shoonyatvam.org/
+Call log:
+  - navigating to ""https://www.shoonyatvam.org/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e5e5324e4b0bf8415d12e40,BINJA TECH PRIVATE LIMITED,DIPP56452,RECOGNISED,U72900MH2020PTC335415,Validation,Nagpur,Maharashtra,IT Services,Application Development,https://www.binjatech.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.binjatech.com/
+Call log:
+  - navigating to ""https://www.binjatech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e56b1d8e4b0bf8415d0a568,GLANCIEL INFOTECH PRIVATE LIMITED,DIPP56078,RECOGNISED,U74990MH2018PTC313736,Scaling,Nagpur,Maharashtra,IT Services,Product Development,https://www.glancielinfotech.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.glancielinfotech.com/
+Call log:
+  - navigating to ""https://www.glancielinfotech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e521a2de4b0bf8415d01d4d,STEM LEARNING SOLUTIONS PRIVATE LIMITED,DIPP55839,RECOGNISED,U80302MH2019PTC330888,EarlyTraction,Nagpur,Maharashtra,Education,Education Technology,https://mystemzone.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mystemzone.com/
+Call log:
+  - navigating to ""https://mystemzone.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e4537bde4b0bf8415cf2b7c,BETTER ROBOTICS PRIVATE LIMITED,DIPP55220,RECOGNISED,U29306MH2019PTC333752,Prototype,Nagpur,Maharashtra,Robotics,Robotics Application,https://www.betterrobotics.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.betterrobotics.in/
+Call log:
+  - navigating to ""https://www.betterrobotics.in/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+5e368763e4b0bf34fcfa2522,ANTMAN CONSULTANTS AND LOGISTICS PRIVATELIMITED,DIPP54394,RECOGNISED,U74990MH2018PTC313763,EarlyTraction,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://www.coldstoragetoday.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.coldstoragetoday.com/
+Call log:
+  - navigating to ""https://www.coldstoragetoday.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e355cfae4b0bf34fcfa1766,ALLIANCE TECHNOLOGIST,DIPP54359,RECOGNISED,NG000005498,Scaling,Nagpur,Maharashtra,Technology Hardware,Manufacturing,https://www.alliancetechnologist.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.alliancetechnologist.com/
+Call log:
+  - navigating to ""https://www.alliancetechnologist.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e2e909ae4b06a21cadbbc90,KRISH INFOTECH SYSTEMS PRIVATE LIMITED,DIPP53980,RECOGNISED,U72900MH2016PTC272134,Scaling,Nagpur,Maharashtra,IT Services,Application Development,https://www.krishinfotech.net,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.krishinfotech.net/
+Call log:
+  - navigating to ""https://www.krishinfotech.net/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5e2aff50e4b0978ef9bf70dd,VILLARBAN RETAIL AND WHOLESALE HUB PRIVATE LIMITED,DIPP53841,RECOGNISED,U74999MH2018PTC314496,EarlyTraction,Nagpur,Maharashtra,Agriculture,Agri-Tech,https://www.villarban.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.villarban.com/
+Call log:
+  - navigating to ""https://www.villarban.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e25bbace4b0978ef9bf0332,AUR INNOVATIONS PRIVATE LIMITED,DIPP91843,RECOGNISED,U33125PN2020PTC196022,Prototype,Nagpur,Maharashtra,Healthcare & Lifesciences,Medical Devices Biomedical,https://www.Hippojaws.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hippojaws.com/
+Call log:
+  - navigating to ""https://www.hippojaws.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e1c6802e4b04bc11ecd65e2,WATTFIN VENTURES PRIVATE LIMITED,DIPP53239,RECOGNISED,U74999MH2019PTC324312,EarlyTraction,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://www.atant.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.atant.in/
+Call log:
+  - navigating to ""https://www.atant.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e1b0a61e4b0cb88a1d4cf50,ATHARVASHREE INFRAVENTURES PRIVATE LIMITED,DIPP77621,RECOGNISED,U70101MH2016PTC280857,Prototype,Nagpur,Maharashtra,Construction,Construction & Engineering,https://www.atharvashree.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.atharvashree.co.in/
+Call log:
+  - navigating to ""https://www.atharvashree.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e094611e4b098d21eef48ae,ECOBUGY LOGISTICS SOLUTION LLP,DIPP52207,RECOGNISED,AAQ-6662,EarlyTraction,Nagpur,Maharashtra,Transportation & Storage,Freight & Logistics Services,http://ecobugy.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ecobugy.com/
+Call log:
+  - navigating to ""http://ecobugy.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5e05fb71e4b098d21eee94b0,RMR ENVITECH PRIVATE LIMITED,DIPP101907,RECOGNISED,U74900MH2014PTC258148,Scaling,Nagpur,Maharashtra,Green Technology,Others,http://www.rmrenvitech.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rmrenvitech.com/
+Call log:
+  - navigating to ""http://www.rmrenvitech.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5dfaf5fae4b026527442c4c5,DRISHTEE FEEDS AND NUTRITION PRIVATE LIMITED,DIPP51285,RECOGNISED,U74999MH2018PTC314582,Scaling,Nagpur,Maharashtra,Agriculture,Animal Husbandry,https://www.drishteefeeds.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.drishteefeeds.com/
+Call log:
+  - navigating to ""https://www.drishteefeeds.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5dea033fe4b04e0095275d82,KKE CHEMICALS PRIVATE LIMITED,DIPP50449,RECOGNISED,U24233MH2012PTC230331,Scaling,Nagpur,Maharashtra,Chemicals,Commodity Chemicals,https://www.kkeautocare.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kkeautocare.com/
+Call log:
+  - navigating to ""https://www.kkeautocare.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5dd7d5c2e4b0b6d6d946c372,GREEN LIFE SOLUTIONS PRIVATE LIMITED,DIPP49580,RECOGNISED,U31900MH2012PTC230401,Scaling,Nagpur,Maharashtra,Renewable Energy,Renewable Solar Energy,https://www.greenlifesolution.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.greenlifesolution.in/
+Call log:
+  - navigating to ""https://www.greenlifesolution.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5dcab061e4b0be63b6d6c17b,TAGSCOLLECTIVE INDIA PRIVATE LIMITED,DIPP67882,RECOGNISED,U80902MH2019PTC324383,EarlyTraction,Nagpur,Maharashtra,IT Services,Web Development,https://WWW.ourbix.COM,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ourbix.com/
+Call log:
+  - navigating to ""https://www.ourbix.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5dc41628e4b0437dbc4869e9,YOUBOTICS SOFTWARE PRIVATE LIMITED,DIPP48734,RECOGNISED,U72900MH2019PTC331866,Validation,Nagpur,Maharashtra,AI,Machine Learning,https://youbotics.ai/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://youbotics.ai/
+Call log:
+  - navigating to ""https://youbotics.ai/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5db052c6e4b08fc2aba5c7aa,NITESCO FACILITY SERVICES PRIVATE LIMITED,DIPP47966,RECOGNISED,U74999MH2019PTC328862,Validation,Nagpur,Maharashtra,Professional & Commercial Services,Business Support Services,http://nitesco.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://nitesco.in/
+Call log:
+  - navigating to ""http://nitesco.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5da5bf01e4b0fdee1a8d4e87,NECO DESERT TECH DEFENCE PRIVATE LIMITED,DIPP47546,RECOGNISED,U74990MH2016PTC273774,Prototype,Nagpur,Maharashtra,Aeronautics Aerospace & Defence,Drones,https://www.necodefence.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_ABORTED at https://www.necodefence.com/
+Call log:
+  - navigating to ""https://www.necodefence.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5d8b49b9e4b05eaf4e0caf03,RUDRA SPECTRA PRIVATE LIMITED,DIPP46490,RECOGNISED,U74999MH2019PTC330948,Prototype,Nagpur,Maharashtra,IT Services,Project Management,https://www.rudraspectra.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rudraspectra.com/
+Call log:
+  - navigating to ""https://www.rudraspectra.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5d7aac4ee4b0fad8ed6c6866,LENERGY MOBILITY PRIVATE LIMITED,DIPP45576,RECOGNISED,U80301MH2019PTC329155,EarlyTraction,Nagpur,Maharashtra,Education,Skill Development,https://lenergymobility.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lenergymobility.com/
+Call log:
+  - navigating to ""https://lenergymobility.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5d4bc685e4b0d334677e8125,3NOT ROBOTICS PRIVATE LIMITED,DIPP42690,RECOGNISED,U29309MH2019PTC328836,Validation,Nagpur,Maharashtra,Robotics,Robotics Technology,https://www.3notrobotics.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.3notrobotics.in/
+Call log:
+  - navigating to ""https://www.3notrobotics.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5d498456e4b0d334677e2b77,TABXO LABS LLP,DIPP42614,RECOGNISED,AAO-3963,Prototype,Nagpur,Maharashtra,Technology Hardware,Electronics,https://www.tabxolabs.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tabxolabs.com/
+Call log:
+  - navigating to ""https://www.tabxolabs.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5d3ab10ee4b03beb13607abb,SAFEGUARD DETECTIVE & MANPOWER SOLUTIONS PRIVATE LIMITED,DIPP41905,RECOGNISED,U74120MH2015PTC270419,EarlyTraction,Nagpur,Maharashtra,Safety,Personal Security,https://www.safeguardindia.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.safeguardindia.in/
+Call log:
+  - navigating to ""https://www.safeguardindia.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5d2724b2e4b0ac4d036f36da,RNR INNOTECH PRIVATE LIMITED,DIPP40931,RECOGNISED,U72200MH2017PTC300334,EarlyTraction,Nagpur,Maharashtra,Enterprise Software,ERP,https://www.rnrinnotech.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.rnrinnotech.com/
+Call log:
+  - navigating to ""https://www.rnrinnotech.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5d23268be4b0ac4d036e9519,LOCKENE PRIVATE LIMITED,DIPP40672,RECOGNISED,U74999MH2016PTC288741,EarlyTraction,Nagpur,Maharashtra,Security Solutions,Home Security solutions,https://WWW.LOCKENE.IN,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.lockene.in/
+Call log:
+  - navigating to ""https://www.lockene.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5d15c3ece4b0659b5265b973,KICKTOWN SPORTS PRIVATE LIMITED,DIPP40001,RECOGNISED,U92419MH2018PTC312572,Validation,Nagpur,Maharashtra,Sports,Sports Promotion and Networking,http://kicktown.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://kicktown.in/
+Call log:
+  - navigating to ""http://kicktown.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5cf6a3a2e4b08f8b1a99aea2,YUA TECH PRIVATE LIMITED,DIPP38776,RECOGNISED,U70109MH2019PTC325666,Validation,Nagpur,Maharashtra,Real Estate,Coworking Spaces,https://www.Caffice.Space,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caffice.space/
+Call log:
+  - navigating to ""https://www.caffice.space/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5cdad530e4b08f8b1a95db39,ADITYA BIOINNOVATION PRIVATE LIMITED,DIPP37857,RECOGNISED,U74999MH2017PTC299532,Validation,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://www.adityabioinnovation.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.adityabioinnovation.com/
+Call log:
+  - navigating to ""https://www.adityabioinnovation.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5cdaa557e4b08f8b1a95b7d1,BLUEWINGS INDUSTRIES INDIA PRIVATE LIMITED,DIPP37844,RECOGNISED,U51909MH2019PTC325315,EarlyTraction,Nagpur,Maharashtra,Technology Hardware,Electronics,https://www.bluewingsindustries.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bluewingsindustries.com/
+Call log:
+  - navigating to ""https://www.bluewingsindustries.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5cd17c62e4b08536635353e8,APPYNITTY COMMUNICATIONS PRIVATE LIMITED,DIPP37537,RECOGNISED,U72900MH2017PTC295123,EarlyTraction,Nagpur,Maharashtra,IT Services,Product Development,https://www.appynitty.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_RESET at https://www.appynitty.com/
+Call log:
+  - navigating to ""https://www.appynitty.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+5cd14c49e4b085366353507b,TECHNOSOFT INTEGRATED SOLUTIONS PRIVATE LIMITED,DIPP37518,RECOGNISED,U74999MH2015PTC262247,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare IT,https://www.tisplautomation.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tisplautomation.com/
+Call log:
+  - navigating to ""https://www.tisplautomation.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ca1d903e4b0d381ea045ca4,ROMINENCE BUILDERS PRIVATE LIMITED,DIPP36006,RECOGNISED,U45309MH2017PTC294211,Validation,Nagpur,Maharashtra,Construction,New-age Construction Technologies,https://rominence.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rominence.in/
+Call log:
+  - navigating to ""https://rominence.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5c829d75e4b0563d5c5f8a44,PEARL COMMERZ PRIVATE LIMITED,DIPP34452,RECOGNISED,U74999MH2017PTC299510,Scaling,Nagpur,Maharashtra,Agriculture,Organic Agriculture,https://www.pearlcommerz.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pearlcommerz.com/
+Call log:
+  - navigating to ""https://www.pearlcommerz.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5c70fad9e4b0ba900e11deba,GENEXT GENOMICS PRIVATE LIMITED,DIPP33684,RECOGNISED,U73100MH2011PTC212683,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Biotechnology,https://www.gng.asia,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gng.asia/
+Call log:
+  - navigating to ""https://www.gng.asia/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5c6eb6dce4b0ba900e119bf3,TECHNOTE SOFTWARE SOLUTION PRIVATE LIMITED,DIPP33564,RECOGNISED,U72900MH2014PTC256641,Validation,Nagpur,Maharashtra,IT Services,IT Consulting,http://technotesoftware.in/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://technotesoftware.in/
+Call log:
+  - navigating to ""http://technotesoftware.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5c6268b6e4b0ba900e0eb1bc,ASIMEET INNOVATIONS (OPC) PRIVATE LIMITED,DIPP32980,RECOGNISED,U72900MH2017OPC301204,Prototype,Nagpur,Maharashtra,IT Services,Application Development,http://www.asimeet.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at http://www.asimeet.com/
+Call log:
+  - navigating to ""http://www.asimeet.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5c26ff9de4b0bd844e94500a,ALTIN STRATEGIST ENDEAVOUR PRIVATE LIMITED,DIPP31133,RECOGNISED,U22100PN2018PTC177930,Prototype,Nagpur,Maharashtra,Finance Technology,Business Finance,https://www.altinsyndicate.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.altinsyndicate.com/
+Call log:
+  - navigating to ""https://www.altinsyndicate.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b051dcee4b0a9285b5ba7cc,PIPELINE FNB PRIVATE LIMITED,DIPP29793,RECOGNISED,U74999MH2016PTC285400,Validation,Nagpur,Maharashtra,Food & Beverages,Restaurants,https://www.pipelinefnb.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pipelinefnb.com/
+Call log:
+  - navigating to ""https://www.pipelinefnb.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5bd6ad6ce4b0d01c027e4630,NU OSSA MEDIQUIP PRIVATE LIMITED,DIPP51687,RECOGNISED,U24302MH2018PTC306488,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Medical Devices Biomedical,https://www.nuossa.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.nuossa.com/
+Call log:
+  - navigating to ""https://www.nuossa.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+5bd5909be4b0d01c027e4259,VASUDHA WOODLESS CREMATION FOUNDATION,DIPP29069,RECOGNISED,U85100MH2016NPL284602,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.vasudhawoodlesscremationfoundation.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vasudhawoodlesscremationfoundation.com/
+Call log:
+  - navigating to ""https://www.vasudhawoodlesscremationfoundation.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5bd374ace4b0d01c027e3c35,SNUGTECH SERVICES PRIVATE LIMITED,DIPP29046,RECOGNISED,U74999MH2016PTC285874,Scaling,Nagpur,Maharashtra,Security Solutions,Home Security solutions,https://www.snugtechservices.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.snugtechservices.com/
+Call log:
+  - navigating to ""https://www.snugtechservices.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5bc8b5d4e4b0a0446f01bc9c,ZEONE TECHNOLOGIES (OPC) PRIVATE LIMITED,DIPP28753,RECOGNISED,U74999MH2018OPC306584,Validation,Nagpur,Maharashtra,Green Technology,Clean Tech,https://www.zeone.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zeone.co.in/
+Call log:
+  - navigating to ""https://www.zeone.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5bc3a7bfe4b0c21ec4fe1543,ZEROJHANJHAT ACCOMODATION SERVICES PRIVATE LIMITED,DIPP35082,RECOGNISED,U74999MH2017PTC299048,EarlyTraction,Nagpur,Maharashtra,Real Estate,Housing,https://www.zerojhanjhat.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.zerojhanjhat.com/
+Call log:
+  - navigating to ""https://www.zerojhanjhat.com/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5bb08cf0e4b0410db0ca79ca,BLACK LEAF WASTE MANAGEMENT PRIVATE LIMITED,DIPP9828,RECOGNISED,U74999MH2017PTC299691,Prototype,Nagpur,Maharashtra,Green Technology,Waste Management,https://www.scrapee.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.scrapee.in/
+Call log:
+  - navigating to ""https://www.scrapee.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5baef206e4b0410db0c9dea0,HARBOR VISION PRIVATE LIMITED,DIPP27724,RECOGNISED,U72900MH2018PTC309351,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Technology,https://harborvision.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://harborvision.in/
+Call log:
+  - navigating to ""https://harborvision.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ba254aae4b05f0501954fba,SAMVID INTERNATIONAL PRIVATE LIMITED,DIPP25439,RECOGNISED,U51909MH2014PTC257027,EarlyTraction,Nagpur,Maharashtra,Healthcare & Lifesciences,Health & Wellness,https://www.samvidinternational.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.samvidinternational.com/
+Call log:
+  - navigating to ""https://www.samvidinternational.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ba0b717e4b05f050191b8f0,YOUBOTICS,DIPP22794,RECOGNISED,NG000003820,Validation,Nagpur,Maharashtra,AI,Machine Learning,https://www.youbotics.ai,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.youbotics.ai/
+Call log:
+  - navigating to ""https://www.youbotics.ai/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b81aecce4b0637a70120a23,ASTROVIS TEXTILE SERVICES PRIVATE LIMITED,DIPP27035,RECOGNISED,U74999MH2018PTC310888,EarlyTraction,Nagpur,Maharashtra,Textiles & Apparel,Apparel & Accessories,https://www.astrovis.org,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.astrovis.org/
+Call log:
+  - navigating to ""https://www.astrovis.org/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b7d7212e4b0637a7011f79c,MOONY MONK DESIGN STUDIO PRIVATE LIMITED,DIPP23669,RECOGNISED,U74999MH2017PTC295081,EarlyTraction,Nagpur,Maharashtra,Fashion,Apparel,https://WWW.MOONYMONK.COM,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.moonymonk.com/
+Call log:
+  - navigating to ""https://www.moonymonk.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b7d4955e4b0637a7011ea3c,COMMUNIXLAB PRIVATE LIMITED,DIPP21235,RECOGNISED,U72900MH2018PTC309167,EarlyTraction,Nagpur,Maharashtra,Marketing,Digital Marketing (SEO Automation),https://communixlab.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://communixlab.com/
+Call log:
+  - navigating to ""https://communixlab.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b62dba7e4b070f883426b7e,PHOTRONIX LED LIGHTS PRIVATE LIMITED,DIPP25901,RECOGNISED,U31907MH2017PTC297766,Validation,Nagpur,Maharashtra,Technology Hardware,Electronics,https://www.photronixled.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.photronixled.com/
+Call log:
+  - navigating to ""https://www.photronixled.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5b1637e6e4b04e859d296d27,KALINDI VENTURES,DIPP25008,RECOGNISED,NG000004065,EarlyTraction,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.CalvayFood.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.calvayfood.com/
+Call log:
+  - navigating to ""https://www.calvayfood.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5acaff98e4b0c13abcef2985,GRAPE FOODTECH PRIVATE LIMITED,DIPP12189,RECOGNISED,U15125MH2017PTC294791,Validation,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.grapecorp.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.grapecorp.in/
+Call log:
+  - navigating to ""https://www.grapecorp.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5aca6132e4b0c13abcef287b,AIRAVAT CORPORATE SERVICES PRIVATE LIMITED,DIPP18491,RECOGNISED,U72100MH2015PTC267581,Scaling,Nagpur,Maharashtra,Internet of Things,Wearables,https://www.airavatcs.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.airavatcs.in/
+Call log:
+  - navigating to ""https://www.airavatcs.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5ac0c31fe4b026aa2861d930,HOARDKINGS PRIVATE LIMITED,DIPP19357,RECOGNISED,U93000PN2018PTC175739,Prototype,Nagpur,Maharashtra,Advertising,Online Classified,https://www.hoardking.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hoardking.com/
+Call log:
+  - navigating to ""https://www.hoardking.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5abf7661e4b026aa2861d742,VRIDDH PATH TRAVELLING ASSISTANCE PRIVATE LIMITED,DIPP17898,RECOGNISED,U63030MH2018PTC303743,Validation,Nagpur,Maharashtra,Travel & Tourism,Facility Management,https://www.cabnotels.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cabnotels.com/
+Call log:
+  - navigating to ""https://www.cabnotels.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5abe3d5fe4b026aa2861a9c3,GODIGILER INDIA WEB SOLUTIONS PRIVATE LIMITED,DIPP16281,RECOGNISED,U74999PN2017PTC171945,Validation,Nagpur,Maharashtra,IT Services,Web Development,https://www.rhenopharm.com,,,,OK,info@rhenopharm.com,,,1,ERROR,'contact-form-7%20id=76%20title=Appointment%20Form' does not appear to be an IPv4 or IPv6 address,info@rhenopharm.com,,,OTHER_ERROR
+5abe3999e4b026aa2861a458,MILLENNIA AHEAD TECHNOLOGIES PRIVATE LIMITED,DIPP10497,RECOGNISED,U74999MH2017PTC295541,EarlyTraction,Nagpur,Maharashtra,Enterprise Software,ERP,https://millenniaaheadtechnologies.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CONNECTION_REFUSED at https://millenniaaheadtechnologies.com/
+Call log:
+  - navigating to ""https://millenniaaheadtechnologies.com/"", waiting until ""domcontentloaded""
+",,,,CONNECTION_ERROR
+5a7f0223e4b075325d8bb9f2,BLAST ENTERPRISES PRIVATE LIMITED,DIPP17177,RECOGNISED,U74999MH2015PTC267330,Scaling,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.sabzilana.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sabzilana.com/
+Call log:
+  - navigating to ""https://www.sabzilana.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5a7e0489e4b075325d8bb6f3,INSPIRED FOODS PRIVATE LIMITED,DIPP16266,RECOGNISED,U15122MH2013PTC250373,Scaling,Nagpur,Maharashtra,Food & Beverages,Food Processing,https://www.guavaz.co,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.guavaz.co/
+Call log:
+  - navigating to ""https://www.guavaz.co/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5a7bd59ee4b075325d8bae47,UPRUDENCE DIGITAL SOLUTIONS PRIVATE LIMITED,DIPP7104,RECOGNISED,U74999MH2017PTC297066,Validation,Nagpur,Maharashtra,Real Estate,Housing,https://www.uprudenceagro.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.uprudenceagro.com/
+Call log:
+  - navigating to ""https://www.uprudenceagro.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5a4bae35e4b0865903d62291,HOZANA INFOTECH PRIVATE LIMITED,DIPP21440,RECOGNISED,U74999MH2018PTC308440,EarlyTraction,Nagpur,Maharashtra,House-Hold Services,Home Care,https://nativoe.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nativoe.com/
+Call log:
+  - navigating to ""https://nativoe.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+5a434e7be4b0762f513dbbbb,ATS IT WORLD PRIVATE LIMITED,DIPP3438,RECOGNISED,U74900MH2016PTC273337,Validation,Nagpur,Maharashtra,,,http://www.atsitworld.com/,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.atsitworld.com/
+Call log:
+  - navigating to ""http://www.atsitworld.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+59fdabc0e4b0f281b9ab9071,NEWOPTION ONLINE SERVICES PRIVATE LIMITED,DIPP130279,RECOGNISED,U72900MH2020PTC341220,Prototype,Nagpur,Maharashtra,IT Services,IT Consulting,https://www.newoptions.co.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.newoptions.co.in/
+Call log:
+  - navigating to ""https://www.newoptions.co.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+59f97335e4b0f281b9ab8a6a,MVM SOLUTIONS PRIVATE LIMITED,DIPP11175,RECOGNISED,U72200MH2017PTC295892,Validation,Nagpur,Maharashtra,Travel & Tourism,Facility Management,https://www.vngz.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vngz.in/
+Call log:
+  - navigating to ""https://www.vngz.in/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+59770a62e4b02e027ba9be47,EPIONE HEALTHCARE PRIVATE LIMITED,DIPP70739,RECOGNISED,U85200MH2017PTC297331,Validation,Nagpur,Maharashtra,Healthcare & Lifesciences,Healthcare Services,https://www.your-physio.in,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.your-physio.in/
+Call log:
+  - navigating to ""https://www.your-physio.in/"", waiting until ""domcontentloaded""
+",,,,HTTP_ERROR
+5957d90de4b0bcdc8b670de6,VCREATORSS IT LLP,DIPP1286,RECOGNISED,AAG-8330,EarlyTraction,Nagpur,Maharashtra,,,https://www.vcreatorss.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vcreatorss.com/
+Call log:
+  - navigating to ""https://www.vcreatorss.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR
+59569d5ee4b0bcdc8b670d6e,Lihos Motors Pvt. Ltd.,DIPP414,RECOGNISED,U34200MH2015PTC269308,Validation,Nagpur,Maharashtra,,,https://www.lithosmotors.com,,,,OK,,,,0,ERROR,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lithosmotors.com/
+Call log:
+  - navigating to ""https://www.lithosmotors.com/"", waiting until ""domcontentloaded""
+",,,,DNS_ERROR

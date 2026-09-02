@@ -1,0 +1,14 @@
+2026/08/19-14:31:37.694 14b4 Creating DB C:\Users\ASUS\OneDrive\Desktop\Nagpur_Startup_Scraper\website_discovery_browser\Default\Local Storage\leveldb since it was missing.
+2026/08/19-14:31:37.710 14b4 Reusing MANIFEST C:\Users\ASUS\OneDrive\Desktop\Nagpur_Startup_Scraper\website_discovery_browser\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/19-14:34:38.460 14b4 Level-0 table #5: started
+2026/08/19-14:34:38.465 14b4 Level-0 table #5: 55130 bytes OK
+2026/08/19-14:34:38.468 14b4 Delete type=0 #3
+2026/08/19-14:40:06.914 478c Level-0 table #7: started
+2026/08/19-14:40:06.923 478c Level-0 table #7: 61446 bytes OK
+2026/08/19-14:40:06.925 478c Delete type=0 #4
+2026/08/19-14:49:42.250 478c Level-0 table #9: started
+2026/08/19-14:49:42.263 478c Level-0 table #9: 48681 bytes OK
+2026/08/19-14:49:42.268 478c Delete type=0 #6
+2026/08/19-14:55:08.233 478c Level-0 table #11: started
+2026/08/19-14:55:08.240 478c Level-0 table #11: 45283 bytes OK
+2026/08/19-14:55:08.243 478c Delete type=0 #8
